@@ -13,7 +13,7 @@
       "description": "LEANSMP Running Minecraft 1.20.1",
       "icon": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/icon.png",
       "version": "1.0.0",
-      "address": "council-arrested.gl.joinmc.link",
+      "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "LEANSMP",
@@ -23,6 +23,2511 @@
       "mainServer": false,
       "autoconnect": false,
       "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.17.2",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1915305,
+            "MD5": "72dd698d701202d46303fc913cfcbf23",
+            "url": "https://leanheon.github.io/leansmp/repo/lib/net/fabricmc/fabric-loader/0.17.2/fabric-loader-0.17.2.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-fabric-0.17.2",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2847,
+                "MD5": "192ed7e69b2db691e36b51e83e80335e",
+                "url": "https://leanheon.github.io/leansmp/repo/versions/1.20.1-fabric-0.17.2/1.20.1-fabric-0.17.2.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.8",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126113,
+                "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
+                "url": "https://leanheon.github.io/leansmp/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.8",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35151,
+                "MD5": "3d63508405f5610fc2ea673ff5471553",
+                "url": "https://leanheon.github.io/leansmp/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.8",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 73498,
+                "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
+                "url": "https://leanheon.github.io/leansmp/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.8",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51934,
+                "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
+                "url": "https://leanheon.github.io/leansmp/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.8",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94559,
+                "MD5": "62498ef324bdab15f407d703f7d78d19",
+                "url": "https://leanheon.github.io/leansmp/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.16.3+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1504156,
+                "MD5": "aa4a43d5b0e9abf4fcb57520ffeb0019",
+                "url": "https://leanheon.github.io/leansmp/repo/lib/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.20.1",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 573365,
+                "MD5": "3f4768ac751cac3418266d1d7aa15f55",
+                "url": "https://leanheon.github.io/leansmp/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "net.mcreator.rottenfleshtoleather:rotten_flesh_to_leather:1.0.0@jar",
+          "name": "Rotten Flesh to Leather",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 19700,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/_rottenflesh-to-leather_1-20-x.jar",
+            "MD5": "efb1109266446a1a45ac4e4d3634df12"
+          }
+        },
+        {
+          "id": "com.lodestar:aileron:1.20.1-fabric-1.1.1@jar",
+          "name": "Aileron",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 249064,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/aileron-1.20.1-fabric-1.1.1.jar",
+            "MD5": "828d6fb0ba3123eab035ffeb0c39250f"
+          }
+        },
+        {
+          "id": "wraith.alloyforgery:alloy_forgery:2.1.2+1.20@jar",
+          "name": "Alloy Forgery",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 256944,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/alloy-forgery-2.1.2+1.20.jar",
+            "MD5": "45efb161d10bf008eeacb16cd5d6469d"
+          }
+        },
+        {
+          "id": "team.creative:ambientsounds:6.1.6@jar",
+          "name": "AmbientSounds",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 83889108,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/AmbientSounds_FABRIC_v6.1.6_mc1.20.1.jar",
+            "MD5": "96a08976e21de776cad1eea6f94f77aa"
+          }
+        },
+        {
+          "id": "com.starfish_studios:another_furniture:1.20.1-3.0.1@jar",
+          "name": "Another Furniture",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2733280,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/another_furniture-fabric-1.20.1-3.0.1.jar",
+            "MD5": "ad7757e3ad83a5a789cdf5932d9a20f9"
+          }
+        },
+        {
+          "id": "squeek.appleskin:appleskin:2.5.1+mc1.20@jar",
+          "name": "AppleSkin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1064362,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/appleskin-fabric-mc1.20.1-2.5.1.jar",
+            "MD5": "723370be246a876144ae424cbbfd60f4"
+          }
+        },
+        {
+          "id": "com.obscuria:aquamirae:6@jar",
+          "name": "Aquamirae",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 16111383,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/Aquamirae%206.jar",
+            "MD5": "e817cdf90a103d1f48ddd96b8b0ddcd6"
+          }
+        },
+        {
+          "id": "dev.architectury.utils:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 585207,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/architectury-9.2.14-fabric.jar",
+            "MD5": "2ae04e0dad60a390031ee341e0b2ab45"
+          }
+        },
+        {
+          "id": "artifacts:artifacts:9.5.15@jar",
+          "name": "Artifacts",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 960085,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/artifacts-fabric-9.5.15.jar",
+            "MD5": "ff9efd157d285a6c798545c519129e39"
+          }
+        },
+        {
+          "id": "earth.terrarium.athena.impl:athena:3.1.2@jar",
+          "name": "Athena",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 74370,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/athena-fabric-1.20.1-3.1.2.jar",
+            "MD5": "4fd1c38eaf802239c3faeda982a77f2d"
+          }
+        },
+        {
+          "id": "net.sydokiddo:auditory:0.0.6-1.20.1@jar",
+          "name": "Auditory",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1851265,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/auditory-0.0.6-1.20.1.jar",
+            "MD5": "0f743e0ddf0d651b50205bc5414a9c27"
+          }
+        },
+        {
+          "id": "io.github.apace100.autotag:autotag-convention:2.0.2+1.20@jar",
+          "name": "AutoTag Convention",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 52660,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/autotag-2.0.2+1.20.jar",
+            "MD5": "38181004decf2dce9883958895ad1f4f"
+          }
+        },
+        {
+          "id": "mod.azure:azurelibarmor:2.0.14@jar",
+          "name": "AzureLib Armor",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 427488,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/azurelibarmor-fabric-1.20.1-2.0.14.jar",
+            "MD5": "dcb2433bcec707b03393b55832d8e25d"
+          }
+        },
+        {
+          "id": "generated.fabricmod:badoptimizations:2.3.0@jar",
+          "name": "BadOptimizations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 452304,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/BadOptimizations-2.3.0-1.20.1.jar",
+            "MD5": "6ccd8c56680f6bc7928273eae5d66da6"
+          }
+        },
+        {
+          "id": "net.blay09.mods:balm:7.3.37@jar",
+          "name": "Balm",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 608287,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/balm-fabric-1.20.1-7.3.37.jar",
+            "MD5": "9cd4fa2b8d97555a910a6a14bb14a606"
+          }
+        },
+        {
+          "id": "io.github.suel_ki:beautify:1.2.0+1.20.1@jar",
+          "name": "Beautify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 825685,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/beautify-1.2.0+1.20.1.jar",
+            "MD5": "129cad90777ace36aa6e8c41b843870e"
+          }
+        },
+        {
+          "id": "com.sudolev:bellsandwhistles:0.4.5@jar",
+          "name": "Create: Bells & Whistles",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 216802,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/bellsandwhistles-0.4.5+1.20.1-FABRIC.jar",
+            "MD5": "a72bb86edd12291414298957dab9bc5a"
+          }
+        },
+        {
+          "id": "generated.fabricmod:better_climbing:3@jar",
+          "name": "Better Climbing",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12179,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/better_climbing-fabric-3.jar",
+            "MD5": "e1340abbee2355213d27c2ea7a25f18f"
+          }
+        },
+        {
+          "id": "betteradvancements:betteradvancements:0.4.2.25@jar",
+          "name": "Better Advancements",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 97597,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/BetterAdvancements-Fabric-1.20.1-0.4.2.25.jar",
+            "MD5": "aab265e80bbf0269996062ce1ba9822a"
+          }
+        },
+        {
+          "id": "net.bettercombat:bettercombat:1.8.6+1.20.1@jar",
+          "name": "Better Combat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 902833,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/bettercombat-fabric-1.8.6+1.20.1.jar",
+            "MD5": "8d474709e691da55e5d3bd6169184dbc"
+          }
+        },
+        {
+          "id": "me.cominixo:betterf3:7.0.2@jar",
+          "name": "BetterF3",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1782676,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/BetterF3-7.0.2-Fabric-1.20.1.jar",
+            "MD5": "acda45b22c255f78f3242056b1221c8e"
+          }
+        },
+        {
+          "id": "me.Thelnfamous1:bettermobcombat:1.3.0@jar",
+          "name": "Better Mob Combat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 249229,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/bettermobcombat-fabric-1.20.1-1.3.0.jar",
+            "MD5": "bb07af3512496fe0b7970a5f49f4444d"
+          }
+        },
+        {
+          "id": "com.legobmw99.BetterThanMending:betterthanmending:1.3.0@jar",
+          "name": "BetterThanMending",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4152,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/betterthanmending-1.3.0.jar",
+            "MD5": "15398ffa69910ba9497e54501f82b9dd"
+          }
+        },
+        {
+          "id": "io.socol:betterthirdperson:1.9.0@jar",
+          "name": "Better Third Person",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 55504,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/BetterThirdPerson-Fabric-1.20-1.9.0.jar",
+            "MD5": "abefae2dbfc50b8b180908e3c8933bb3"
+          }
+        },
+        {
+          "id": "net.darkhax:bookshelf:20.2.13@jar",
+          "name": "Bookshelf",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 322180,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/Bookshelf-Fabric-1.20.1-20.2.13.jar",
+            "MD5": "6aae84a4b71657b5f06634230651b3f9"
+          }
+        },
+        {
+          "id": "earth.terrarium:botarium:2.3.4@jar",
+          "name": "Botarium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 188388,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/botarium-fabric-1.20.1-2.3.4.jar",
+            "MD5": "7e7ab50854a3084771346ebc260c91b5"
+          }
+        },
+        {
+          "id": "dev.sterner:brewinandchewin:3.0.6+1.20.1@jar",
+          "name": "Brewin And Chewin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 525600,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/brewinandchewin-3.0.6+1.20.1.jar",
+            "MD5": "b68b4d1e5f91c3be112f0187a9668ac3"
+          }
+        },
+        {
+          "id": "me.cg360.mod.bridging.entrypoint:bridgingmod:2.5.1+1.20.1@jar",
+          "name": "Bridging Mod",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3577394,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/BridgingMod-2.5.1+1.20.1.fabric-release.jar",
+            "MD5": "be35439432acf2b14c580c3ab3792ee3"
+          }
+        },
+        {
+          "id": "com.ishland:c2me:0.2.0+alpha.11.16@jar",
+          "name": "Concurrent Chunk Management Engine",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1426500,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
+            "MD5": "92a6600d0f05c7e70d92d459b3b9eba8"
+          }
+        },
+        {
+          "id": "mirsario.cameraoverhaul.entrypoints:cameraoverhaul:2.0.3-fabric+mc.1.20.0-1.20.5@jar",
+          "name": "CameraOverhaul",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 152505,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/optionalon/CameraOverhaul-v2.0.3-fabric+mc[1.20.0-1.20.5].jar",
+            "MD5": "06ab59e58889f48558a7c64585b19540"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "de.maxhenkel:camerautils:1.20.1-1.0.14@jar",
+          "name": "Camera Utils",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 323996,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/camerautils-fabric-1.20.1-1.0.14.jar",
+            "MD5": "342a715864a5b60a940f9f25c096b6c4"
+          }
+        },
+        {
+          "id": "moe.caramel.chat:caramelchat:1.2.2@jar",
+          "name": "CaramelChat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 344443,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/caramelChat-mc1.20.1-fabric-1.2.2.jar",
+            "MD5": "f7cdef44421e8db36d94de1b15d7d724"
+          }
+        },
+        {
+          "id": "tschipp.carryon:carryon:2.1.2.7@jar",
+          "name": "Carry On",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 443033,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/carryon-fabric-1.20.1-2.1.2.7.jar",
+            "MD5": "c050f3d0934bbd8893fe2353eab906bb"
+          }
+        },
+        {
+          "id": "net.lizistired:cavedust:3.0.1@jar",
+          "name": "Cave Dust",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 243901,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/cave_dust-3.0.1.jar",
+            "MD5": "e01d9e2ed94d345bd8eb0a7d836532c1"
+          }
+        },
+        {
+          "id": "io.github.kituin:chatimage:1.4.7+1.20+fabric@jar",
+          "name": "ChatImage",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1015681,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/ChatImage-1.4.7+1.20+fabric.jar",
+            "MD5": "2d32d5e55dc3e6c3fb81f1915fb48f89"
+          }
+        },
+        {
+          "id": "earth.terrarium:chipped:3.0.7@jar",
+          "name": "Chipped",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 15057458,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/chipped-fabric-1.20.1-3.0.7.jar",
+            "MD5": "776f440f3ba3c8024f3b60eb92a20f6f"
+          }
+        },
+        {
+          "id": "org.popcraft:chunky:1.3.146@jar",
+          "name": "Chunky",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 344004,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/Chunky-1.3.146.jar",
+            "MD5": "b1e31424db96ae83246efd0390598e01"
+          }
+        },
+        {
+          "id": "org.popcraft:chunkyborder:1.1.53@jar",
+          "name": "ChunkyBorder",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 157179,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/ChunkyBorder-1.1.53.jar",
+            "MD5": "1a80cd2cfcddac3910f416d90952ce69"
+          }
+        },
+        {
+          "id": "com.blamejared:clumps:12.0.0.4@jar",
+          "name": "Clumps",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 21987,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/Clumps-fabric-1.20.1-12.0.0.4.jar",
+            "MD5": "9bd27566262e06642637b78a6bc4fe8c"
+          }
+        },
+        {
+          "id": "it.crystalnest:cobweb:1.0.1@jar",
+          "name": "Cobweb",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 94865,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/cobweb-fabric-1.20.1-1.0.1.jar",
+            "MD5": "e901f40ba123b803ee15dd2a54ba62bb"
+          }
+        },
+        {
+          "id": "com.natamus:collective:8.13@jar",
+          "name": "Collective",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 665169,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/collective-1.20.1-8.13.jar",
+            "MD5": "abe112af460bf8befe26605a5e4c4248"
+          }
+        },
+        {
+          "id": "terrails.colorfulhearts:colorfulhearts:4.3.16@jar",
+          "name": "Colorful Hearts",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 325772,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/colorfulhearts-fabric-1.20.1-4.3.16.jar",
+            "MD5": "6e64616aa2d4811666d4aa99b68bda9a"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:comforts:6.4.0+1.20.1@jar",
+          "name": "Comforts",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 693624,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/comforts-fabric-6.4.0+1.20.1.jar",
+            "MD5": "681a5788b12195e5b2243947203c701e"
+          }
+        },
+        {
+          "id": "me.pepperbell:continuity:3.0.0+1.20.1@jar",
+          "name": "Continuity",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1016063,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/continuity-3.0.0+1.20.1.jar",
+            "MD5": "d180631d4db7588393f1d0c280593bc3"
+          }
+        },
+        {
+          "id": "jaiz.coolrain:coolrain:1.1.0-1.20.1@jar",
+          "name": "CoolRain",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3126219,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/coolrain-1.1.0-1.20.1.jar",
+            "MD5": "e0df0443850570946d6afdfd4ac31668"
+          }
+        },
+        {
+          "id": "com.copycatsplus:copycats:2.2.2+mc.1.20.1-fabric@jar",
+          "name": "Create: Copycats+",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1933455,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/copycats-2.2.2+mc.1.20.1-fabric.jar",
+            "MD5": "71eeb7169c89f324c6ff55cce38969f4"
+          }
+        },
+        {
+          "id": "com.corosus.coroutil.loader:coroutil:1.20.1-1.3.7@jar",
+          "name": "CoroUtil",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2392617,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/coroutil-fabric-1.20.1-1.3.7.jar",
+            "MD5": "44365b7447c9b4c3aeadcadf454494aa"
+          }
+        },
+        {
+          "id": "io.github.apace100.cosmetic_armor:cosmetic-armor:1.6.0@jar",
+          "name": "Cosmetic Armor",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 20221,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/CosmeticArmor-1.20-1.6.0.jar",
+            "MD5": "642e2ebbfc66a3bd063994b54f6467ca"
+          }
+        },
+        {
+          "id": "net.countered:terrainslabs:1.4.0@jar",
+          "name": "Countered's Terrain Slabs - connector Edition",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 272286,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/countereds_terrain_slabs-1.4.0.jar",
+            "MD5": "2a2c617fbd18c5622952311fef791e78"
+          }
+        },
+        {
+          "id": "com.axperty:cratedelight:24.11.22-1.20-fabric@jar",
+          "name": "Crate Delight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 222667,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/cratedelight-24.11.22-1.20-fabric.jar",
+            "MD5": "a134bcf0133a54b3e11ee06047233d5c"
+          }
+        },
+        {
+          "id": "ru.fewizz:crawl:0.12.0@jar",
+          "name": "Crawl",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 97866,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/crawl-0.12.0.jar",
+            "MD5": "693b2f07bf2b8280507f32d52bca388e"
+          }
+        },
+        {
+          "id": "uwu.lopyluna:create_dd:0.1d@jar",
+          "name": "Create: Dreams & Desires",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4373010,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/create_dd-0.1d.jar",
+            "MD5": "7184899616ae2783d93f610c32ec139f"
+          }
+        },
+        {
+          "id": "create_ultimate_factory:create_ultimate_factory:2.1.0@jar",
+          "name": "Create: Ultimate Factory",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 227202,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
+            "MD5": "66fdb73ce2a81e42bab1bcb7b79e4af6"
+          }
+        },
+        {
+          "id": "net.zlt:create_vibrant_vaults:0.2.0+1.20.1@jar",
+          "name": "Create: Vibrant Vaults",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2646892,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/create_vibrant_vaults-0.2.0+1.20.1.jar",
+            "MD5": "be7be1a9da878c59a6569bb1a1b0e4a8"
+          }
+        },
+        {
+          "id": "com.simibubi:create:0.5.1-j-build.1631+mc1.20.1@jar",
+          "name": "Create",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 24841934,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar",
+            "MD5": "48de208df4154d2149101d351148569b"
+          }
+        },
+        {
+          "id": "org.antarcticgardens.newage:create_new_age:1.1.2@jar",
+          "name": "Create: New Age",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 657516,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/create-new-age-fabric-1.20.1-1.1.2.jar",
+            "MD5": "adbcf100c350d23dcaffc452261700a7"
+          }
+        },
+        {
+          "id": "rbasamoyai.createbigcannons:createbigcannons:5.8.2@jar",
+          "name": "Create Big Cannons",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6245365,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/createbigcannons-5.8.2-mc.1.20.1-fabric.jar",
+            "MD5": "1024d4dc0c91de77204299d675ffd9f6"
+          }
+        },
+        {
+          "id": "com.github.talrey:createdeco:2.0.2-1.20.1-fabric@jar",
+          "name": "Create Deco",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3971046,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/createdeco-2.0.2-1.20.1-fabric.jar",
+            "MD5": "5898cfdf230cf101a01128662a1d11b3"
+          }
+        },
+        {
+          "id": "com.jesz:createdieselgenerators:2.1.4@jar",
+          "name": "Create Diesel Generators",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1952791,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/createdieselgenerators-2.1.4.jar",
+            "MD5": "dc171d026e0cf373d14680ff8c63204b"
+          }
+        },
+        {
+          "id": "net.dakotapride:createframed:1.5.8+1.20.1@jar",
+          "name": "Create: Framed",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 841065,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/createframed-1.5.8+1.20.1.jar",
+            "MD5": "3bf664552dd2a4637e947222e8a76124"
+          }
+        },
+        {
+          "id": "net.nuclearteam:createnuclear:1.20.1@jar",
+          "name": "Create Nuclear",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6742749,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/createnuclear-1.3.0-fabric.jar",
+            "MD5": "ecffb5addf96587cc98f54e272fed684"
+          }
+        },
+        {
+          "id": "com.tom.createores:createoreexcavation:1.5.4@jar",
+          "name": "Create Ore Excavation",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 499058,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/createoreexcavation-fabric-1.20-1.5.4.jar",
+            "MD5": "a22a35e8102d4853a2e8403b55defae8"
+          }
+        },
+        {
+          "id": "team.creative:creativecore:2.12.32@jar",
+          "name": "CreativeCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1214951,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/CreativeCore_FABRIC_v2.12.32_mc1.20.1.jar",
+            "MD5": "ef5dcefe9918062998219cd8ab1a7843"
+          }
+        },
+        {
+          "id": "net.theevilm:evilcreativefly:1.2.1-1.20-fabric@jar",
+          "name": "Creative Fly",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 17022,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/CreativeFly-1.2.1-1.20-fabric.jar",
+            "MD5": "b85468fdf25a77d517d5be80752f50d5"
+          }
+        },
+        {
+          "id": "tech.thatgravyboat:creeperoverhaul:3.0.2@jar",
+          "name": "Creeper Overhaul",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1451306,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/creeperoverhaul-3.0.2-fabric.jar",
+            "MD5": "0b13cba2a00aafb49298f38d2d3f2e32"
+          }
+        },
+        {
+          "id": "net.cristellib:cristellib:1.1.5@jar",
+          "name": "Cristel Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 431581,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/cristellib-1.1.5-fabric.jar",
+            "MD5": "18f48c190dd29c43b5d7b10c5c243111"
+          }
+        },
+        {
+          "id": "lilypuree.decorative_blocks:decorative_blocks:4.1.3@jar",
+          "name": "Decorative Blocks",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 546719,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/decorative_blocks-fabric-1.20.1-4.1.3.jar",
+            "MD5": "39a67e78370299975d3a172b582aed24"
+          }
+        },
+        {
+          "id": "net.averageanime:delightfulchefs:1.0.3@jar",
+          "name": "Delightful Chefs",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 243879,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/delightful-chefs-1.0.3-fabric.jar",
+            "MD5": "34669e28a4e232dbae3054bd44bc3c47"
+          }
+        },
+        {
+          "id": "fuzs.diagonalfences:diagonalfences:8.1.5@jar",
+          "name": "Diagonal Fences",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 167185,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/DiagonalFences-v8.1.5-1.20.1-Fabric.jar",
+            "MD5": "e76d148e4681fd3e8911cbe54375dddd"
+          }
+        },
+        {
+          "id": "fuzs.diagonalwalls:diagonalwalls:8.0.4@jar",
+          "name": "Diagonal Walls",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 158486,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/DiagonalWalls-v8.0.4-1.20.1-Fabric.jar",
+            "MD5": "934fbe9ae66ec15a451936fbd40e8d67"
+          }
+        },
+        {
+          "id": "generated.fabricmod:disable_custom_worlds_advice:4.1@jar",
+          "name": "Disable Custom Worlds Advice",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 38644,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/DisableCustomWorldsAdvice-4.1.jar",
+            "MD5": "213dddd5080de0b52630a3830404d7ea"
+          }
+        },
+        {
+          "id": "fabric.com.cursee:disenchanting_table:5.0.2@jar",
+          "name": "Dis-Enchanting Table",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 228329,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/disenchanting_table-merged-1.20.1-5.0.2.jar",
+            "MD5": "5b1ecef15bc43530b7c7c9ca8a2a0021"
+          }
+        },
+        {
+          "id": "com.seibel:distanthorizons:2.3.6-b@jar",
+          "name": "Distant Horizons",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 25362721,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar",
+            "MD5": "6dc56520b57c27f1c4cf3b5026130ca2"
+          }
+        },
+        {
+          "id": "toni.distractionfreerecipes:distraction_free_recipes:1.2.1@jar",
+          "name": "Distraction Free Recipes (EMI)",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 413226,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/distraction_free_recipes-fabric-1.2.1-1.20.1.jar",
+            "MD5": "292ee00c4548c20020935a99529b425f"
+          }
+        },
+        {
+          "id": "net.lostluma.dynamic_fps.impl.textile.compat:dynamic_fps:3.9.5@jar",
+          "name": "Dynamic FPS",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 196959,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/dynamic-fps-3.9.5+minecraft-1.20.0-fabric.jar",
+            "MD5": "1f30ec92141e767d28a04791580259f6"
+          }
+        },
+        {
+          "id": "de.markusbordihn.easynpc.bundle:easy_npc_bundle:${version}@jar",
+          "name": "Easy NPC (Bundle)",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1897134,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/easy_npc_bundle-6.1.0-fabric-1.20.1.jar",
+            "MD5": "84815b765015c05b894ee5548f604a27"
+          }
+        },
+        {
+          "id": "fuzs.easymagic:easymagic:8.0.1@jar",
+          "name": "Easy Magic",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 104693,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/EasyMagic-v8.0.1-1.20.1-Fabric.jar",
+            "MD5": "44d78d2ca99e6d5f4e9fdcfd2c5daec5"
+          }
+        },
+        {
+          "id": "ru.tpsd.eatinganimationmod:eatinganimationid:1.20+1.9.61@jar",
+          "name": "Eating Animation",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1218710,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/eating-animation-1.20+1.9.61.jar",
+            "MD5": "090eeadcff74ce255e97285f8ab56472"
+          }
+        },
+        {
+          "id": "org.ladysnake.effective.core:effective:2.3.2-1.20.1@jar",
+          "name": "Effective",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 35483882,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/effective-2.3.2-1.20.1.jar",
+            "MD5": "116451023a134c3c952b865a998bc282"
+          }
+        },
+        {
+          "id": "fzzyhmstrs.emi_loot:emi_loot:0.7.8+1.20.1+fabric@jar",
+          "name": "EMI Loot",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 421414,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/emi_loot-0.7.8+1.20.1+fabric.jar",
+            "MD5": "f0f65a230e0bd90d9f9c7aae43715aac"
+          }
+        },
+        {
+          "id": "dev.emi.emi.platform:emi:1.1.22+1.20.1+fabric@jar",
+          "name": "EMI",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1051034,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/emi-1.1.22+1.20.1+fabric.jar",
+            "MD5": "44de2e68c3d6c0c839bc57b6e18c9cf0"
+          }
+        },
+        {
+          "id": "com.pandaismyname1.emiletsdocompat:emi_letsdo_compat:1.8.1@jar",
+          "name": "Emi-letsdo-compat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 135112,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/emi-letsdo-compat-1.8.1.jar",
+            "MD5": "cfd3da592108fb2f20cbe3f8610847df"
+          }
+        },
+        {
+          "id": "generated.fabricmod:emitrades:1.2.1+mc1.20.1@jar",
+          "name": "EMI Trades",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 51479,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/emitrades-fabric-1.2.1+mc1.20.1.jar",
+            "MD5": "2ad3e27f208eb72fb9373795f1e614b6"
+          }
+        },
+        {
+          "id": "net.darkhax:enchdesc:17.1.19@jar",
+          "name": "EnchantmentDescriptions",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 63569,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/EnchantmentDescriptions-Fabric-1.20.1-17.1.19.jar",
+            "MD5": "f1378d5e98333bcc8daf02c0ac5e93ab"
+          }
+        },
+        {
+          "id": "tech.alexnijjar:endermanoverhaul:1.0.4@jar",
+          "name": "Enderman Overhaul",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1194281,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/endermanoverhaul-fabric-1.20.1-1.0.4.jar",
+            "MD5": "aecdcf146c1678c91efc14eccf5bc0d6"
+          }
+        },
+        {
+          "id": "traben.entity_model_features:entity_model_features:2.4.1@jar",
+          "name": "Entity Model Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 444272,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/entity_model_features_fabric_1.20.1-2.4.1.jar",
+            "MD5": "9979ce497513b57a72175d80167a3fe5"
+          }
+        },
+        {
+          "id": "traben.entity_texture_features:entity_texture_features:6.2.9@jar",
+          "name": "Entity Texture Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 652400,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/entity_texture_features_fabric_1.20.1-6.2.9.jar",
+            "MD5": "69e81059aa60c49bc9c97918d4640edd"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.9.3@jar",
+          "name": "EntityCulling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 470229,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/entityculling-fabric-1.9.3-mc1.20.1.jar",
+            "MD5": "6e779e99b20ad27312bee4596c7cb4fe"
+          }
+        },
+        {
+          "id": "com.ianm1647:expandeddelight:0.3.2@jar",
+          "name": "Expanded Delight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 323205,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/expandeddelight-0.3.2.jar",
+            "MD5": "3055a9aaea49481eb17e784b286465d5"
+          }
+        },
+        {
+          "id": "io.github.mortuusars:exposure:1.7.10@jar",
+          "name": "Exposure",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1315811,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/exposure-1.20.1-1.7.10-fabric.jar",
+            "MD5": "907b69bcb38b85366d3d6b14099381cb"
+          }
+        },
+        {
+          "id": "com.rabbitminers:extendedgears:2.1.1-1.20.1-0.5.1.f-fabric@jar",
+          "name": "Extended Cogwheels",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 224000,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/extendedgears-2.1.1-1.20.1-0.5.1.f-fabric.jar",
+            "MD5": "d17d6a5a0207f3d73603f0f8581ccf1c"
+          }
+        },
+        {
+          "id": "dev.stashy:extrasounds:2.3.1+1.20.1~lonefelidae16-build.1@jar",
+          "name": "ExtraSounds",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 332213,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/extra-sounds-2.3.11.20.1lonefelidae16-build.1.jar",
+            "MD5": "00552117bf62a0815f083bea1288b360"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.92.5+1.20.1@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2107841,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/fabric-api-0.92.5+1.20.1.jar",
+            "MD5": "9d6b286586e9d6b40ee161dee1dd271f"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.13.3+kotlin.2.1.21@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7163558,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar",
+            "MD5": "3c186cee540e7f21d8327bed71dd9d6b"
+          }
+        },
+        {
+          "id": "randommcsomethin.fallingleaves:fallingleaves:1.15.6@jar",
+          "name": "Falling Leaves",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 156773,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/fallingleaves-1.15.6+1.20.1.jar",
+            "MD5": "1d13a592b3c329e2bc10b658161e8429"
+          }
+        },
+        {
+          "id": "fr.rakambda:fallingtree:4.3.4@jar",
+          "name": "FallingTree",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 420179,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/FallingTree-1.20.1-4.3.4.jar",
+            "MD5": "e9282de446320895a7835ce9efc6d3b7"
+          }
+        },
+        {
+          "id": "de.keksuccino:fancymenu:3.8.1@jar",
+          "name": "FancyMenu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4472279,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/fancymenu_fabric_3.8.1_MC_1.20.1.jar",
+            "MD5": "352b70cfa9369147a1b0c435873bb1c0"
+          }
+        },
+        {
+          "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-2.3.0+refabricated@jar",
+          "name": "Farmer's Delight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 8012818,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/FarmersDelight-1.20.1-2.3.0+refabricated.jar",
+            "MD5": "d37d7b39bd81f0c5164e30918450893f"
+          }
+        },
+        {
+          "id": "fuzs.fastitemframes:fastitemframes:20.1.2@jar",
+          "name": "Fast Item Frames",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 95984,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/FastItemFrames-v20.1.2-1.20.1-Fabric.jar",
+            "MD5": "90bf86878f1f2b646d5918015f5d702f"
+          }
+        },
+        {
+          "id": "generated.fabricmod:ferritecore:6.0.1@jar",
+          "name": "FerriteCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 125197,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/ferritecore-6.0.1-fabric.jar",
+            "MD5": "a19272e427f75fea59127de6610ea26b"
+          }
+        },
+        {
+          "id": "dev.tr7zw:firstperson:2.5.0@jar",
+          "name": "FirstPerson",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 510550,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/firstperson-fabric-2.5.0-mc1.20.1.jar",
+            "MD5": "f995de0f8976928fd75949885691de14"
+          }
+        },
+        {
+          "id": "com.mrcrayfish:framework:0.7.15@jar",
+          "name": "Framework",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1417968,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/framework-fabric-1.20.1-0.7.15.jar",
+            "MD5": "be3d9a2e79589f81d42b5f486ec965ab"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftblibrary:2001.2.12@jar",
+          "name": "FTB Library",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 769888,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/ftb-library-fabric-2001.2.12.jar",
+            "MD5": "dd7ccdbd70afb3b7960bb5383d09cb3e"
+          }
+        },
+        {
+          "id": "me.fzzyhmstrs:fzzy_config:0.6.9+1.20.1@jar",
+          "name": "Fzzy Config",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2149833,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/fzzy_config-0.6.9+1.20.1.jar",
+            "MD5": "100871d6906d8029f3d0ae8828862548"
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib:4.7.1.2@jar",
+          "name": "GeckoLib 4",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1042863,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/geckolib-fabric-1.20.1-4.7.1.2.jar",
+            "MD5": "39817f59719d49b84597786f68b6d63e"
+          }
+        },
+        {
+          "id": "com.mrcrayfish:goblintraders:1.9.3@jar",
+          "name": "Goblin Traders",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 312370,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/goblintraders-fabric-1.20.1-1.9.3.jar",
+            "MD5": "b996dc3cd27dc7ddcd3f6c550f40eed2"
+          }
+        },
+        {
+          "id": "earth.terrarium:handcrafted:3.0.6@jar",
+          "name": "Handcrafted",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7106384,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/handcrafted-fabric-1.20.1-3.0.6.jar",
+            "MD5": "0cb41833dc35949cb23625d2e2b3579d"
+          }
+        },
+        {
+          "id": "io.github.mortuusars:horseman:1.3.14@jar",
+          "name": "Horseman",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 316185,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/horseman-1.20.1-1.3.14-fabric.jar",
+            "MD5": "1721fc2e1e482fd20bc67ff84ea07e7e"
+          }
+        },
+        {
+          "id": "com.anthonyhilyard:iceberg:1.1.25@jar",
+          "name": "Iceberg",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 119018,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/Iceberg-1.20.1-fabric-1.1.25.jar",
+            "MD5": "063fa399d8886abc0b1b612e968b8e0b"
+          }
+        },
+        {
+          "id": "fuzs.illagerinvasion:illagerinvasion:8.0.7@jar",
+          "name": "Illager Invasion",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2312857,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/IllagerInvasion-v8.0.7-1.20.1-Fabric.jar",
+            "MD5": "72f13705d6f93ac64261074b1c61c071"
+          }
+        },
+        {
+          "id": "generated.fabricmod:immediatelyfast:1.5.0+1.20.4@jar",
+          "name": "ImmediatelyFast",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 246066,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/ImmediatelyFast-Fabric-1.5.0+1.20.4.jar",
+            "MD5": "f2a87b95d8389a167df1a8dfe39d0a1e"
+          }
+        },
+        {
+          "id": "immersive_aircraft:immersive_aircraft:1.2.2+1.20.1@jar",
+          "name": "Immersive Aircraft",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2169966,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/immersive_aircraft-1.2.2+1.20.1-fabric.jar",
+            "MD5": "d54b0061b69cfb4965b331810a8b3472"
+          }
+        },
+        {
+          "id": "immersive_armors:immersive_armors:1.6.1+1.20.1@jar",
+          "name": "Immersive Armors",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1228865,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/immersive_armors-1.6.1+1.20.1-fabric.jar",
+            "MD5": "ed8f984f22cc35c7494a79392308679d"
+          }
+        },
+        {
+          "id": "immersive_paintings:immersive_paintings:0.6.8+1.20.1@jar",
+          "name": "Immersive Paintings",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4853104,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/immersive_paintings-0.6.8+1.20.1-fabric.jar",
+            "MD5": "f9d65b7e7672433697928affd5bfe470"
+          }
+        },
+        {
+          "id": "leah.leahs_immersive_thunder:leahs-immersive-thunder:1.20.1+1.2.2@jar",
+          "name": "Immersive Thunder",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3305823,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/ImmersiveThunder-1.20.1+1.2.2.jar",
+            "MD5": "0bc2a5e4e49f81f2740f1eab60483372"
+          }
+        },
+        {
+          "id": "link.infra:indium:1.0.36+mc1.20.1@jar",
+          "name": "Indium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 105382,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/indium-1.0.36+mc1.20.1.jar",
+            "MD5": "21cefdaa742e1f31ded4f85f55a0f41c"
+          }
+        },
+        {
+          "id": "draylar.inmis:inmis:2.7.2-1.20.1@jar",
+          "name": "Inmis",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 147752,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/inmis-2.7.2-1.20.1.jar",
+            "MD5": "5293b0f45ae3574c8533d9269f93a41e"
+          }
+        },
+        {
+          "id": "net.inmisaddon:inmisaddon:1.0.4@jar",
+          "name": "InmisAddon",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 33068,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/inmisaddon-1.0.4.jar",
+            "MD5": "ef5ee9b78ada57b4f87daeb7b332856d"
+          }
+        },
+        {
+          "id": "me.pieking1215:invmove:0.9.0@jar",
+          "name": "InvMove",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 125572,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/InvMove-0.9.0+1.20.1-Fabric.jar",
+            "MD5": "90afe971f27b4e62075dcd4cb992a7f5"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.7.6+mc1.20.1@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2726899,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
+            "MD5": "45577adb5ab16505572c6ea4b1006e58"
+          }
+        },
+        {
+          "id": "top.leonx:irisflw:1.1.4@jar",
+          "name": "Iris Flywheel Compat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 91535,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/iris-flywheel-compat-fabric1.20.1+1.1.4.jar",
+            "MD5": "58f62d8edae68955d7d0139047e544c7"
+          }
+        },
+        {
+          "id": "anner.ironchest:ironchest:2.0.2@jar",
+          "name": "Iron Chests",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 583474,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/IronChests-2.0.2.jar",
+            "MD5": "390e16a36dbeaa99cf990d506a4477e5"
+          }
+        },
+        {
+          "id": "com.anthonyhilyard:itemborders:1.2.2@jar",
+          "name": "Item Borders",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 22091,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/ItemBorders-1.20.1-fabric-1.2.2.jar",
+            "MD5": "1767e390afcf19e8a64e6b26b3520e8b"
+          }
+        },
+        {
+          "id": "net.freedinner:items_displayed:1.3@jar",
+          "name": "Items Displayed",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 446036,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/ItemsDisplayed%20-%20v1.3-1.20.1.jar",
+            "MD5": "9c5773592be73b6f0d63c573657accc2"
+          }
+        },
+        {
+          "id": "io.github.jamalam360:jamlib:1.3.2+1.20.1-patch.1@jar",
+          "name": "JamLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 239703,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/jamlib-fabric-1.3.2+1.20.1-patch.1.jar",
+            "MD5": "94fa00a0b3ee9f8e6653cfffaabae83b"
+          }
+        },
+        {
+          "id": "de.keksuccino:konkrete:1.8.1@jar",
+          "name": "Konkrete",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 892067,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+            "MD5": "a816ca0f5272f0e60c745f7fe6bef1d6"
+          }
+        },
+        {
+          "id": "me.steinborn.krypton.mod.shared:krypton:0.2.3@jar",
+          "name": "Krypton",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 185895,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/krypton-0.2.3.jar",
+            "MD5": "3bf353c1ab576b57c003109c079e2ec8"
+          }
+        },
+        {
+          "id": "dev.latvian.mods:kubejs:2001.6.5-build.16@jar",
+          "name": "KubeJS",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1604251,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/kubejs-fabric-2001.6.5-build.16.jar",
+            "MD5": "c43bf8e7aa075df68558638d372e4d58"
+          }
+        },
+        {
+          "id": "nordmods.leafmealone:leafmealone:1.0.1@jar",
+          "name": "Leaf Me Alone",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 26528,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/leafmealone-1.0.1.jar",
+            "MD5": "485c9d303f711b540963d4d6e5beda74"
+          }
+        },
+        {
+          "id": "com.anthonyhilyard:legendarytooltips:1.4.5@jar",
+          "name": "Legendary Tooltips",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 63969,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/LegendaryTooltips-1.20.1-fabric-1.4.5.jar",
+            "MD5": "da13b6865a45746799f4465409509a52"
+          }
+        },
+        {
+          "id": "de.cristelknight:doapi:1.2.15@jar",
+          "name": "[Let's Do] API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1702813,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/letsdo-API-fabric-1.2.15-fabric.jar",
+            "MD5": "572b3414c6e93d6679f6e89a2ae49995"
+          }
+        },
+        {
+          "id": "com.berksire:furniture:1.0.4@jar",
+          "name": "[Let's Do] Furniture",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2801344,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/letsdo-furniture-fabric-1.0.4.jar",
+            "MD5": "96641c12d0fcc82744e9d3bd3d727831"
+          }
+        },
+        {
+          "id": "net.satisfy:herbalbrews:1.0.11@jar",
+          "name": "[Let's Do] HerbalBrews",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 729055,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/letsdo-herbalbrews-fabric-1.0.11.jar",
+            "MD5": "a4f30494eb29b8ad2d9484b9e31c7c3b"
+          }
+        },
+        {
+          "id": "net.satisfy:vinery:1.4.39@jar",
+          "name": "[Let's Do] Vinery",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4178439,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/letsdo-vinery-fabric-1.4.39.jar",
+            "MD5": "6d2d7ae608f65becc5803c3b9dc48b38"
+          }
+        },
+        {
+          "id": "net.libz:libz:1.0.3@jar",
+          "name": "LibZ",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2228818,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/libz-1.0.3.jar",
+            "MD5": "77d400179e6ed77f14539a0ff0b71af6"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:lithium:0.11.3@jar",
+          "name": "Lithium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 706600,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/lithium-fabric-mc1.20.1-0.11.3.jar",
+            "MD5": "de6d394cedf7e33bfd4b03209156211a"
+          }
+        },
+        {
+          "id": "net.zestyblaze:lootr:0.7.35.85@jar",
+          "name": "Lootr",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 572017,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/lootr-fabric-1.20-0.7.35.85.jar",
+            "MD5": "26144f326ced4b2c4f36c48fb90f797a"
+          }
+        },
+        {
+          "id": "me.lucko:luckperms:5.4.102@jar",
+          "name": "LuckPerms",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1551904,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/LuckPerms-Fabric-5.4.102.jar",
+            "MD5": "2ce3eca6d4bafcbf3289f48c14d2b1c1"
+          }
+        },
+        {
+          "id": "chronosacaria.mcda:mcda:5.0.2@jar",
+          "name": "MC Dungeons Armors",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1101138,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/mcda-5.0.2.jar",
+            "MD5": "d7d5fcab741cd3530429126b509553ac"
+          }
+        },
+        {
+          "id": "chronosacaria.mcdw:mcdw:9.0.4@jar",
+          "name": "MC Dungeons Weapons",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1494390,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/mcdw-9.0.4.jar",
+            "MD5": "b742ab330bda348d62ae48083e46d1c2"
+          }
+        },
+        {
+          "id": "net.kikoz:mcwbridges:3.1.0@jar",
+          "name": "Macaw's Bridges",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 663358,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/mcw-bridges-3.1.0-mc1.20.1fabric.jar",
+            "MD5": "32a9ae967654657505e174be9682fe3a"
+          }
+        },
+        {
+          "id": "net.kikoz:mcwdoors:1.1.2@jar",
+          "name": "Macaw's Doors",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1445267,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/mcw-doors-1.1.2-mc1.20.1fabric.jar",
+            "MD5": "3e10c0adf148c73f96d856a177b696c4"
+          }
+        },
+        {
+          "id": "net.kikoz:mcwfences:1.2.0@jar",
+          "name": "Macaw's Fences and Walls",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 646760,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/mcw-fences-1.2.0-1.20.1fabric.jar",
+            "MD5": "8a29bf72dd1887388acd79839a8e6ae6"
+          }
+        },
+        {
+          "id": "net.kikoz:mcwlights:1.1.2@jar",
+          "name": "Macaw's Lights and Lamps",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 508187,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/mcw-lights-1.1.2-mc1.20.1fabric.jar",
+            "MD5": "f011310f0347a60ba1e969df95ab8736"
+          }
+        },
+        {
+          "id": "net.kikoz:mcwpaintings:1.0.5@jar",
+          "name": "Macaw's Paintings",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 58164,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/mcw-paintings-1.0.5-1.20.1fabric.jar",
+            "MD5": "fa5fe9c3931d2c8c0737f51e19a4da9d"
+          }
+        },
+        {
+          "id": "com.mcwpaths.kikoz:mcwpaths:1.1.0@jar",
+          "name": "Macaw's Paths and Pavings",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 768956,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/mcw-paths-1.1.0fabric-mc1.20.1.jar",
+            "MD5": "e844a0a6169d316524f44db6acc28ca7"
+          }
+        },
+        {
+          "id": "net.kikoz:mcwroofs:2.3.2@jar",
+          "name": "Macaw's Roofs",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1796110,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/mcw-roofs-2.3.2-mc1.20.1fabric.jar",
+            "MD5": "94486dc7fb9ec51dda39c4b9e3f1208d"
+          }
+        },
+        {
+          "id": "com.mcwstairs.kikoz:mcwstairs:1.0.1@jar",
+          "name": "Macaw's Stairs and Balconies",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 611081,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/mcw-stairs-1.0.1-1.20.1fabric.jar",
+            "MD5": "4b40cfb30c745e751b45ce74a6fd219f"
+          }
+        },
+        {
+          "id": "net.kikoz:mcwtrpdoors:1.1.4@jar",
+          "name": "Macaw's Trapdoors",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 665031,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/mcw-trapdoors-1.1.4-mc1.20.1fabric.jar",
+            "MD5": "69525553cfe9c68bfeafcf765ae533a9"
+          }
+        },
+        {
+          "id": "net.kikoz:mcwwindows:2.3.0@jar",
+          "name": "Macaw's Windows",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1344964,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/mcw-windows-2.3.0-mc1.20.1fabric.jar",
+            "MD5": "4fde8914eda8f1f55e72b85ac03eff32"
+          }
+        },
+        {
+          "id": "de.keksuccino:melody:1.0.3@jar",
+          "name": "Melody",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 39696,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+            "MD5": "8095b46d324586b3cf3d2f5bffe8b417"
+          }
+        },
+        {
+          "id": "ca.fxco:memoryleakfix:1.1.5@jar",
+          "name": "Memory Leak Fix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 49334,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/memoryleakfix-fabric-1.17+-1.1.5.jar",
+            "MD5": "a8461f89d267441752c95beb5448e940"
+          }
+        },
+        {
+          "id": "tfar.metalbarrels:metalbarrels:4@jar",
+          "name": "MetalBarrels",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 177697,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/MetalBarrels-fabric-1.20.1-4.jar",
+            "MD5": "744515b0e88bf1083c22a650a7cb76e1"
+          }
+        },
+        {
+          "id": "me.Thelnfamous1:mobplayeranimator:1.3.3@jar",
+          "name": "Mob Player Animator",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 218331,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/mobplayeranimator-fabric-1.20.1-1.3.3.jar",
+            "MD5": "90f843f261f2b9f59f8fb0ed69243f55"
+          }
+        },
+        {
+          "id": "org.embeddedt:modernfix:5.24.4+mc1.20.1@jar",
+          "name": "ModernFix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 533705,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/modernfix-fabric-5.24.4+mc1.20.1.jar",
+            "MD5": "1f0c92268d97b8f2bd4998ae886246a5"
+          }
+        },
+        {
+          "id": "com.terraformersmc:modmenu:7.2.2@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 721366,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/modmenu-7.2.2.jar",
+            "MD5": "2629511a2d3b141d9f2a24dc9685637e"
+          }
+        },
+        {
+          "id": "com.cursee:monolib:2.1.0@jar",
+          "name": "MonoLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 191242,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/monolib-fabric-1.20.1-2.1.0.jar",
+            "MD5": "0ed91fdeb05e7c76076e4ad849083f4e"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:moonlight:1.20-2.13.81@jar",
+          "name": "Moonlight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1231422,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/moonlight-1.20-2.13.81-fabric.jar",
+            "MD5": "72835e8d714a8e18e6f3fbd19bc6befd"
+          }
+        },
+        {
+          "id": "de.kxmischesdomi:morebannerfeatures:1.2.0@jar",
+          "name": "More Banner Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 232187,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/morebannerfeatures-1.2.0-1.20.jar",
+            "MD5": "6f97bdbfccc3d6cb7f97a4bc847962e5"
+          }
+        },
+        {
+          "id": "com.axperty:moredelight:25.01.13-1.20-fabric@jar",
+          "name": "More Delight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 147566,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/moredelight-25.01.13-1.20-fabric.jar",
+            "MD5": "128887c42b2eea9084acf4a5b1bf4f94"
+          }
+        },
+        {
+          "id": "com.github.nyuppo:moremobvariants:1.3.1@jar",
+          "name": "More Mob Variants",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 385225,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/moremobvariants-fabric+1.20.1-1.3.1.jar",
+            "MD5": "07e9b41b05ab854236e550d9b0e402f2"
+          }
+        },
+        {
+          "id": "yalter.mousetweaks:mousetweaks:2.26@jar",
+          "name": "Mouse Tweaks",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 77943,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/MouseTweaks-fabric-mc1.20-2.26.jar",
+            "MD5": "3138c776d370c90603938eb54d17469a"
+          }
+        },
+        {
+          "id": "de.siphalor:mousewheelie:1.13.0+mc1.20.1@jar",
+          "name": "Mouse Wheelie",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1193533,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/mousewheelie-1.13.0+mc1.20.1.jar",
+            "MD5": "b8e95f3f28db9814250600f7f18113be"
+          }
+        },
+        {
+          "id": "us.potatoboy.worldborderfix:multiworldborders:1.6.2-fabric-1.20@jar",
+          "name": "Multi World Borders",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 30971,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/multiworldborders-1.6.2-fabric-1.20.jar",
+            "MD5": "8c9245f206f9acbe95b40fdfca98439c"
+          }
+        },
+        {
+          "id": "nourl.mythicmetals:mythicmetals:0.19.10+1.20.1@jar",
+          "name": "Mythic Metals",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3227669,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/mythicmetals-0.19.10+1.20.1.jar",
+            "MD5": "0194adaf32d2e111bf6f5130afcd010e"
+          }
+        },
+        {
+          "id": "net.trique:mythicupgrades:4.2.0+mc1.20.1@jar",
+          "name": "Mythic Upgrades",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1380130,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/mythicupgrades-4.2.0+mc1.20.1.jar",
+            "MD5": "e30d7342f4deda7815634b0cdc7210f5"
+          }
+        },
+        {
+          "id": "umpaz.nethersdelight:nethersdelight:1.20.1-4.1.1@jar",
+          "name": "Nether's Delight Refabricated",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 342154,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/NethersDelight-Refabricated-1.20.1-4.1.1.jar",
+            "MD5": "5fb498dfb3bf49cece359eac436e0f83"
+          }
+        },
+        {
+          "id": "net.jmb19905:niftycarts:20.1.3@jar",
+          "name": "NiftyCarts",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 220927,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/niftycarts-20.1.3.jar",
+            "MD5": "97e33b9980026e8ca265fa80e739ee37"
+          }
+        },
+        {
+          "id": "io.github.steveplays28:noisium:2.3.0+mc1.20-1.20.1@jar",
+          "name": "Noisium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 214902,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/noisium-fabric-2.3.0+mc1.20-1.20.1.jar",
+            "MD5": "4aa425a04054e2c300a8bb816574653c"
+          }
+        },
+        {
+          "id": "dev.tr7zw:notenoughanimations:1.9.3@jar",
+          "name": "NotEnoughAnimations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 448501,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/notenoughanimations-fabric-1.9.3-mc1.20.1.jar",
+            "MD5": "a79feeeb9385a12de8918ca320b26407"
+          }
+        },
+        {
+          "id": "generated.fabricmod:nullscape:1.2.7@jar",
+          "name": "Nullscape",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 399214,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/Nullscape_1.20.x_v1.2.8.jar",
+            "MD5": "691a4526239d6b2b2525b40f209ec8a3"
+          }
+        },
+        {
+          "id": "com.nyfaria:nyfsspiders:2.1.1@jar",
+          "name": "Nyf's Spiders",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 172356,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/nyfsspiders-fabric-1.20.1-2.1.1.jar",
+            "MD5": "17af1481adffaac2e7b7f169c4d9285d"
+          }
+        },
+        {
+          "id": "com.obscuria.obscureapi:obscure_api:16@jar",
+          "name": "Obscure API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 405700,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/Obscure-API-16.jar",
+            "MD5": "716510e995887044218a8ebbba962e55"
+          }
+        },
+        {
+          "id": "io.wispforest:owo:0.11.2+1.20@jar",
+          "name": "Oωo",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 905421,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/owo-lib-0.11.2+1.20.jar",
+            "MD5": "9150f588f732ae38c0320a17fa340626"
+          }
+        },
+        {
+          "id": "com.unlikepaladin:pfm:1.4.4@jar",
+          "name": "Paladin's Furniture",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5790131,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/paladin-furniture-mod-1.4.4-fabric-mc1.20.1.jar",
+            "MD5": "a14311a0600219cbe496b0315708f403"
+          }
+        },
+        {
+          "id": "com.philip:philipsruins:5.7@jar",
+          "name": "Philip`s Ruins",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1524352,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/PhilipsRuins1.20.1-5.7-Fabric.jar",
+            "MD5": "c05753018928e0d6888073ea8a55f17e"
+          }
+        },
+        {
+          "id": "dev.kosmx.playerAnim:player-animator:1.0.2-rc1+1.20@jar",
+          "name": "Player Animator",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 181008,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+            "MD5": "03dfb09aabe5c2c8167568cd5c32666b"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:polymorph:0.49.10+1.20.1@jar",
+          "name": "Polymorph",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 680833,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/polymorph-fabric-0.49.10+1.20.1.jar",
+            "MD5": "4d5144cca3732962902dbf335b86527b"
+          }
+        },
+        {
+          "id": "eu.ha3:presencefootsteps:1.10.1+1.20.1@jar",
+          "name": "Presence Footsteps",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5664952,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/PresenceFootsteps-1.10.1+1.20.1.jar",
+            "MD5": "4d9d64890b7b90641ce6be7d0c9cd3c6"
+          }
+        },
+        {
+          "id": "generated.fabricmod:prism:1.0.5@jar",
+          "name": "Prism",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 57257,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/Prism-1.20.1-fabric-1.0.5.jar",
+            "MD5": "2eed6d81c1b72c75646d33b1b5d9dcfe"
+          }
+        },
+        {
+          "id": "fuzs.puzzleslib.impl:puzzleslib:8.1.32@jar",
+          "name": "Puzzles Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1083817,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/PuzzlesLib-v8.1.32-1.20.1-Fabric.jar",
+            "MD5": "8808fa0da3543b6110d3290127722fcb"
+          }
+        },
+        {
+          "id": "net.reeves:reevesfurniture:1.1304@jar",
+          "name": "Reeves Furniture",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2906105,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/reeves-furniture-1.20.1-1.1304-fabric.jar",
+            "MD5": "5e8432feb07ff0aa926ca0eaab850673"
+          }
+        },
+        {
+          "id": "com.mrcrayfish.furniture.refurbished:refurbished_furniture:1.0.14@jar",
+          "name": "MrCrayfish's Furniture Mod: Refurbished",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6667246,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/refurbished_furniture-fabric-1.20.1-1.0.14.jar",
+            "MD5": "3209d6a6aab04fb93c17ed77d5e67ccf"
+          }
+        },
+        {
+          "id": "com.teamresourceful.resourcefulconfig.web.server:resourcefulconfig:2.1.3@jar",
+          "name": "Resourcefulconfig",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 135078,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/resourcefulconfig-fabric-1.20.1-2.1.3.jar",
+            "MD5": "720878464dc76b75681072f025eae1aa"
+          }
+        },
+        {
+          "id": "dev.latvian.mods.rhino.mod:rhino:2001.2.3-build.10@jar",
+          "name": "Rhino",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1743587,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/rhino-fabric-2001.2.3-build.10.jar",
+            "MD5": "4c971bf6328e5f4ef8cbcd3ecee1c21e"
+          }
+        },
+        {
+          "id": "io.github.jamalam360:rightclickharvest:4.5.3+1.20.1@jar",
+          "name": "Right Click Harvest",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 287305,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/rightclickharvest-fabric-4.5.3+1.20.1.jar",
+            "MD5": "55d52eeccfef4f4124178c3a0f21ac81"
+          }
+        },
+        {
+          "id": "net.rogues:rogues:1.2.0+1.20.1@jar",
+          "name": "Rogues & Warriors (RPG Series)",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1027797,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/rogues-1.2.0+1.20.1.jar",
+            "MD5": "2d70735e7a93aac6d56d65a8763025a0"
+          }
+        },
+        {
+          "id": "net.sixik.sdmuilib:sdm_ui_lib:1.20.1-1.8.3@jar",
+          "name": "SDM UI Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 256192,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/sdm_ui_lib-fabric-1.20.1-1.8.3.jar",
+            "MD5": "24df0d6dd17cfe65b76edaaed57a6575"
+          }
+        },
+        {
+          "id": "net.sixik:sdmcore:2001.4.0@jar",
+          "name": "SDMCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 27030,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/sdmcore-fabric-2001.4.0.jar",
+            "MD5": "5f950a3be43906ba10d586f520d30d2a"
+          }
+        },
+        {
+          "id": "net.sixik:sdmeconomy:2.2.0@jar",
+          "name": "SDMEconomy",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 52067,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/SDMEconomy-1.20.1-fabric-2.2.0.jar",
+            "MD5": "adc314ceed3258dadca7080599266c49"
+          }
+        },
+        {
+          "id": "net.sixik:sdmshop:1.20.1-7.1.2@jar",
+          "name": "SDMShop",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 372606,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/SDMShop-fabric-1.20.1-7.1.2.jar",
+            "MD5": "72151975e023e7aca7d0eedf138a66dd"
+          }
+        },
+        {
+          "id": "com.supermartijn642:simplemagnets:1.1.12@jar",
+          "name": "Simple Magnets",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 143284,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/simplemagnets-1.1.12-fabric-mc1.20.1.jar",
+            "MD5": "3ac1ec13746b1854e97e0cda0af42e0c"
+          }
+        },
+        {
+          "id": "bl4ckscor3.mod:sit:1.20.1-27@jar",
+          "name": "Sit",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 64238,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/sit-1.20.1-27.jar",
+            "MD5": "cb59bea8fdbd7a6f17108b83f4570365"
+          }
+        },
+        {
+          "id": "dev.tr7zw.skinlayers:skinlayers3d:1.9.2@jar",
+          "name": "3d-Skin-Layers",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 870017,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/skinlayers3d-fabric-1.9.2-mc1.20.1.jar",
+            "MD5": "e2919ea4d59b6058c72646863f1bc916"
+          }
+        },
+        {
+          "id": "com.possible_triangle:sliceanddice:3.3.1@jar",
+          "name": "Create Slice & Dice",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 563207,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/sliceanddice-fabric-3.3.1.jar",
+            "MD5": "c9038bc0c4ac424c5cb8cf193c1962eb"
+          }
+        },
+        {
+          "id": "dev.shwg:smoothswapping:0.9.3.1@jar",
+          "name": "Smooth Swapping",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 61986,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/smoothswapping-0.9.3.1-1.20.2-fabric.jar",
+            "MD5": "b4410e1317c568a4cd429e62f614dcd8"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:sodium:0.5.13+mc1.20.1@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 971552,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
+            "MD5": "76e0349865f91f315aae087a6e88a84a"
+          }
+        },
+        {
+          "id": "net.spell_engine:spell_engine:0.15.12+1.20.1@jar",
+          "name": "Spell Engine",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1459273,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/spell_engine-0.15.12+1.20.1.jar",
+            "MD5": "321649c364c3880c26400b5b646db3ba"
+          }
+        },
+        {
+          "id": "net.spell_power:spell_power:0.12.0+1.20.1@jar",
+          "name": "Spell Power Attribute",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 184963,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/spell_power-0.12.0+1.20.1.jar",
+            "MD5": "3f4446e824c9bd45506e639e5aad55b4"
+          }
+        },
+        {
+          "id": "io.github.xiaocihua.stacktonearbychests:stack-to-nearby-chests:0.5.10@jar",
+          "name": "Stack to Nearby Chests",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 559703,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/stack-to-nearby-chests-mc1.20.1-0.5.10.jar",
+            "MD5": "0b2e0e30759552078d9d97c985965ba9"
+          }
+        },
+        {
+          "id": "generated.fabricmod:starlight:1.1.2+fabric.dbc156f@jar",
+          "name": "Starlight",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 127368,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/starlight-1.1.2+fabric.dbc156f.jar",
+            "MD5": "a0b391bf55891502c2074bd078bb5899"
+          }
+        },
+        {
+          "id": "com.natamus:starterkit:7.4@jar",
+          "name": "Starter Kit",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 185182,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/starterkit-1.20.1-7.4.jar",
+            "MD5": "6a47c8098e81f6b1a051e77a8dd50de9"
+          }
+        },
+        {
+          "id": "com.railwayteam:railways:1.6.9+fabric-mc1.20.1@jar",
+          "name": "Create: Steam 'n' Rails",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 9892101,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/Steam_Rails-1.6.9+fabric-mc1.20.1.jar",
+            "MD5": "404efdba168d9405e1ef1ab199a4c344"
+          }
+        },
+        {
+          "id": "generated.fabricmod:structory:1.3.5@jar",
+          "name": "Structory",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1286460,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/Structory_1.20.x_v1.3.5.jar",
+            "MD5": "2cd1485d84e6ba105677ce8423ff83ed"
+          }
+        },
+        {
+          "id": "einstein.subtle_effects:subtle_effects:1.9.4-hotfix.1@jar",
+          "name": "Subtle Effects",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1688672,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/SubtleEffects-fabric-1.20.1-1.9.4-hotfix.1.jar",
+            "MD5": "2017bd328d246e2d8d482c8e65aa94a8"
+          }
+        },
+        {
+          "id": "dev.lambdaurora:lambdabettergrass:1.5.2+1.20.1@jar",
+          "name": "SuperBetterGrass",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 792773,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/SuperBetterGrass-1.5.2+1.20.1.jar",
+            "MD5": "f22cf49d6d5c18ca335291689ba20208"
+          }
+        },
+        {
+          "id": "com.supermartijn642.configlib:supermartijn642configlib:1.1.8+a@jar",
+          "name": "SuperMartijn642's Config Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 207990,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+            "MD5": "b8e27e4c98a70e3034774f5b31a3044e"
+          }
+        },
+        {
+          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.18+a@jar",
+          "name": "SuperMartijn642's Core Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 562776,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/supermartijn642corelib-1.1.18a-fabric-mc1.20.1.jar",
+            "MD5": "de8a3f64db9f132efe1ba69715c7768e"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:supplementaries:1.20-3.1.25@jar",
+          "name": "Supplementaries",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 13421637,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/supplementaries-1.20-3.1.25-fabric.jar",
+            "MD5": "a81fac6eb7df690db90ca5f201e958a6"
+          }
+        },
+        {
+          "id": "techreborn:techreborn:5.8.14@jar",
+          "name": "Tech Reborn",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6218169,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/TechReborn-5.8.14.jar",
+            "MD5": "3ec45cf679a9bb71299772c4de280e86"
+          }
+        },
+        {
+          "id": "xyz.trivaxy:tia:1.20-1.1@jar",
+          "name": "Tiny Item Animations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 18492,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/tia-1.20-1.1-fabric.jar",
+            "MD5": "262aef6a6587de46b8238ca1144deea5"
+          }
+        },
+        {
+          "id": "com.li64:tide:1.5.0@jar",
+          "name": "Tide",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 912473,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/Tide-fabric-1.20.1-1.5.0.jar",
+            "MD5": "8aaace87a8d3d7e59edb9ad7ba4ca4c6"
+          }
+        },
+        {
+          "id": "draylar.tiered:tiered:1.3.3@jar",
+          "name": "Tiered",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 309578,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/tiered-1.3.3.jar",
+            "MD5": "1cf47a9d199c91dd3e39fd0d49728810"
+          }
+        },
+        {
+          "id": "fuzs.tinyskeletons:tinyskeletons:8.0.1@jar",
+          "name": "Tiny Skeletons",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 90644,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/TinySkeletons-v8.0.1-1.20.1-Fabric.jar",
+            "MD5": "f28a47c11003b5ff154c1241a0ee8b63"
+          }
+        },
+        {
+          "id": "generated.fabricmod:t_and_t:1.12@jar",
+          "name": "Towns and Towers",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2864275,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/Towns-and-Towers-1.12-Fabric+Forge.jar",
+            "MD5": "237a2186d2482856f67c638c06489fb8"
+          }
+        },
+        {
+          "id": "de.maxhenkel.tradecycling:trade_cycling:1.20.1-1.0.17@jar",
+          "name": "Trade Cycling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 430420,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/trade-cycling-fabric-1.20.1-1.0.17.jar",
+            "MD5": "cbb85f7615e797ced822be565c9fdcd3"
+          }
+        },
+        {
+          "id": "dev.emi:trinkets:3.7.2@jar",
+          "name": "Trinkets",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 238532,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/trinkets-3.7.2.jar",
+            "MD5": "c010ccc2015e5b1f3cb1994694ecc512"
+          }
+        },
+        {
+          "id": "com.theendercore:trowel:1.3.0-1.20@jar",
+          "name": "Trowel",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 13767,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/trowel-1.3.0-1.20.jar",
+            "MD5": "fe543d79aefd626640860cef5b287a64"
+          }
+        },
+        {
+          "id": "toni.lib:txnilib:1.0.24@jar",
+          "name": "TxniLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1057614,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/txnilib-fabric-1.0.24-1.20.1.jar",
+            "MD5": "cec86b526743f7b542a0bc904eb94fbf"
+          }
+        },
+        {
+          "id": "fuzs.universalbonemeal:universalbonemeal:8.0.1@jar",
+          "name": "Universal Bone Meal",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 80819,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/UniversalBoneMeal-v8.0.1-1.20.1-Fabric.jar",
+            "MD5": "fc31288a24cab8842899967699365811"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar.vsc:v_slab_compat:1.20-2.5@jar",
+          "name": "V_slab_compat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 93215,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/v_slab_compat-1.20-2.5-fabric.jar",
+            "MD5": "9a702af310829bf566b2e05478e8b08e"
+          }
+        },
+        {
+          "id": "io.github.strikerrocker.vt:vanillatweaks:1.5.71@jar",
+          "name": "VanillaTweaks",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 315919,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/VanillaTweaks-fabric-1.20.1-1.5.71.jar",
+            "MD5": "79551a62804802afab4f1a5ff8b47b3d"
+          }
+        },
+        {
+          "id": "net.pandarix:verdantvibes:1.0.1-1.20.1@jar",
+          "name": "Verdant Vibes",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 234066,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/verdantvibes-1.0.1-1.20.1.jar",
+            "MD5": "f2ff3211b5dcf058e64a1c2767664bf2"
+          }
+        },
+        {
+          "id": "com.vinurl:vinurl:1.1.2@jar",
+          "name": "VinURL",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 118571,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/vinurl-1.1.2.jar",
+            "MD5": "c19532bfafcd792bf4ed61b56010cfa8"
+          }
+        },
+        {
+          "id": "visuality:visuality:0.7.1+1.20@jar",
+          "name": "Visuality",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 67302,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/visuality-0.7.1+1.20.jar",
+            "MD5": "14aaa65078fcff3af29fef4e1d7d2161"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.30@jar",
+          "name": "Simple Voice Chat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 8103826,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.30.jar",
+            "MD5": "10efc718572d137c7ba2ab386f307bba"
+          }
+        },
+        {
+          "id": "com.corosus.watut.loader:watut:1.20.1-1.2.3@jar",
+          "name": "What Are They Up To",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 789018,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/watut-fabric-1.20.1-1.2.3.jar",
+            "MD5": "3c3bafc1f68e028ebc6224cc68ecb99e"
+          }
+        },
+        {
+          "id": "com.sk89q:worldedit:7.2.15+6463-5ca4dff@jar",
+          "name": "WorldEdit",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5825402,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/worldedit-mod-7.2.15.jar",
+            "MD5": "bd0e7cff7896348faab92e43300d0639"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:25.2.10@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1740608,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/Xaeros_Minimap_25.2.10_Fabric_1.20.jar",
+            "MD5": "a1d4cdbd00c52ec548eb04c9b306bd4a"
+          }
+        },
+        {
+          "id": "xaero.map:xaeroworldmap:1.39.12@jar",
+          "name": "Xaero's World Map",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 974400,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/XaerosWorldMap_1.39.12_Fabric_1.20.jar",
+            "MD5": "92a21afd0bfc76110ce4442c68d8f696"
+          }
+        },
+        {
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.6.6+1.20.1-fabric@jar",
+          "name": "YetAnotherConfigLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1294234,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+            "MD5": "b6960b2defbf8cb1b983cffd261089ba"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungsapi:1.20-Fabric-4.0.6@jar",
+          "name": "YUNG's API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1396331,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/YungsApi-1.20-Fabric-4.0.6.jar",
+            "MD5": "25624d7157f4b60827c4b6d06c0b8fc0"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterdeserttemples:1.20-Fabric-3.0.3@jar",
+          "name": "YUNG's Better Desert Temples",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1063786,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
+            "MD5": "7dd4fec6982f0946575a4caab6248060"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterdungeons:1.20-Fabric-4.0.4@jar",
+          "name": "YUNG's Better Dungeons",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 944170,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
+            "MD5": "8e324c6508dd74edf1e4705d90139da2"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterjungletemples:1.20-Fabric-2.0.5@jar",
+          "name": "YUNG's Better Jungle Temples",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 947293,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar",
+            "MD5": "b34e5608a93b6a2aa043e4c49f36aff7"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:bettermineshafts:1.20-Fabric-4.0.4@jar",
+          "name": "YUNG's Better Mineshafts",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 621495,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
+            "MD5": "88e49e369f9fd20958c87138328b8c3c"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterfortresses:1.20-Fabric-2.0.6@jar",
+          "name": "YUNG's Better Nether Fortresses",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 760974,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar",
+            "MD5": "aefeee128bbae518186bd3d73c59c74a"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betteroceanmonuments:1.20-Fabric-3.0.4@jar",
+          "name": "YUNG's Better Ocean Monuments",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1165832,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
+            "MD5": "06c32808f70eaa9f41bcc01c09509229"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterstrongholds:1.20-Fabric-4.0.3@jar",
+          "name": "YUNG's Better Strongholds",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 611598,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
+            "MD5": "b0ca22280c7b931a7d3d9be028d3093c"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterwitchhuts:1.20-Fabric-3.0.3@jar",
+          "name": "YUNG's Better Witch Huts",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 307196,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
+            "MD5": "afa25b703d976cde3d62c8f8d8a980a0"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungsextras:1.20-Fabric-4.0.3@jar",
+          "name": "YUNG's Extras",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 342639,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/YungsExtras-1.20-Fabric-4.0.3.jar",
+            "MD5": "ed7d061debff5354386c203e945b2531"
+          }
+        },
         {
           "id": "General.toml",
           "name": "General.toml",
