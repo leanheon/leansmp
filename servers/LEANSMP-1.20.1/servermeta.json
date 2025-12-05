@@ -5,7 +5,7 @@
     "name": "LEANSMP (Minecraft 1.20.1)",
     "description": "LEANSMP Running Minecraft 1.20.1",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
+    "address": "council-arrested.gl.joinmc.link",
     "discord": {
       "shortId": "LEANSMP",
       "largeImageText": "LeanSMP server",
