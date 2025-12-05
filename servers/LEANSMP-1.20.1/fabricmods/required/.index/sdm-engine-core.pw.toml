@@ -1,0 +1,16 @@
+filename = 'sdmcore-fabric-2001.4.0.jar'
+name = 'SDM Engine Core'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '350a0f6776a8d69c6101c2d44a31d3b176f51843'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7090177
+project-id = 964997

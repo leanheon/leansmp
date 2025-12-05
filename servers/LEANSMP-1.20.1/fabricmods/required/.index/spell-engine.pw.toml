@@ -1,0 +1,16 @@
+filename = 'spell_engine-0.15.12+1.20.1.jar'
+name = 'Spell Engine'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'beb07c4466257c32821c8461d52e121931e85de2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6009091
+project-id = 807653

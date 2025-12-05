@@ -1,0 +1,16 @@
+filename = 'stack-to-nearby-chests-mc1.20.1-0.5.10.jar'
+name = 'Stack to Nearby Chests'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2256019d02c7f514b694269c3fb93a293ced4071'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5721365
+project-id = 693995

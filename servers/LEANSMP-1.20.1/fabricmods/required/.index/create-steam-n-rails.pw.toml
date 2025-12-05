@@ -1,0 +1,16 @@
+filename = 'Steam_Rails-1.6.9+fabric-mc1.20.1.jar'
+name = "Create: Steam 'n' Rails"
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd1a6435e683d3cbb70044c78e0cfd38b5076f8fd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5982784
+project-id = 688231

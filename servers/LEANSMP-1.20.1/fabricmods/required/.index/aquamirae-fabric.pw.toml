@@ -1,0 +1,16 @@
+filename = 'Aquamirae 6.jar'
+name = 'Aquamirae (Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '13feb2c346d372b3bec57f1ad2e151d87f65e5d6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4656204
+project-id = 891257

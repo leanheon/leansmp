@@ -1,0 +1,80 @@
+{
+  "74a8ea2e-4da8-4286-9cb0-2073014b2831": {
+    "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+    "normal_level": 1,
+    "normal_current_xp": 0,
+    "normal_total_xp": 0,
+    "sandbox_level": 3,
+    "sandbox_current_xp": 3,
+    "sandbox_total_xp": 14,
+    "guild_progress": {
+      "guild_xp": {
+        "THE_PATHFINDERS": 0,
+        "IRON_UNION": 0,
+        "VERDANT_HEARTH": 0,
+        "ARCHITECT_LEAGUE": 0,
+        "THREE_BLADES": 0
+      },
+      "guild_levels": {
+        "THE_PATHFINDERS": 1,
+        "IRON_UNION": 1,
+        "VERDANT_HEARTH": 1,
+        "ARCHITECT_LEAGUE": 1,
+        "THREE_BLADES": 1
+      }
+    },
+    "level": 1,
+    "current_xp": 0,
+    "total_xp": 0,
+    "tracked_quests": [
+      "lumber_lift",
+      "clay_crafter_new",
+      "zapper"
+    ],
+    "available_quests": {
+      "zapper": 1760622807884,
+      "clay_crafter_new": 1760622807884,
+      "lumber_lift": 1760622807884,
+      "pelt_trader": 1760622807884,
+      "coal_grubber": 1760622807884,
+      "gravel_grunt": 1760622807884
+    },
+    "locked_quest_level": 0,
+    "assigned_sandbox_quests": [
+      "lantern_alley",
+      "covered_market_alley",
+      "courtyard_creation",
+      "library_of_lore",
+      "complete_entire_village"
+    ],
+    "legendary_quests": {
+      "master_horseman": {
+        "required_normal_level": 10,
+        "unlocked": false,
+        "required_level": 0
+      },
+      "beacon_builder": {
+        "required_normal_level": 20,
+        "unlocked": false,
+        "required_level": 0
+      },
+      "master_voyager": {
+        "required_normal_level": 30,
+        "unlocked": false,
+        "required_level": 0
+      },
+      "drillbit": {
+        "required_normal_level": 40,
+        "unlocked": false,
+        "required_level": 0
+      },
+      "forest_purge": {
+        "required_normal_level": 50,
+        "unlocked": false,
+        "required_level": 0
+      }
+    },
+    "sandbox_cooldown_end": 1760624503274,
+    "titleAdvancementTriggered": false
+  }
+}

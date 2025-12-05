@@ -1,0 +1,16 @@
+filename = 'letsdo-API-fabric-1.2.15-fabric.jar'
+name = "[Let's Do] API "
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '75fe2c9ee62ed131620c0dfb4be8a9cad616eec0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5468180
+project-id = 864599

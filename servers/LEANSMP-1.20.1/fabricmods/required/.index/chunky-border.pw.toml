@@ -1,0 +1,16 @@
+filename = 'ChunkyBorder-1.1.53.jar'
+name = 'Chunky Border (Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ecccbc9a971d261405a150e325c09fd22d24f465'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4787015
+project-id = 631658

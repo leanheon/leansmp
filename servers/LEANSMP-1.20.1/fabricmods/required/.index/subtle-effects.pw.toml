@@ -1,0 +1,16 @@
+filename = 'SubtleEffects-fabric-1.20.1-1.9.4-hotfix.1.jar'
+name = 'Subtle Effects'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ab1af123954092ac74152d6b7cf1006979d2dd11'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6376361
+project-id = 1023913

@@ -1,0 +1,16 @@
+filename = 'moredelight-25.01.13-1.20-fabric.jar'
+name = 'More Delight (Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a4cbce0fe5f0fad4e3c130d1a638a56338ea905a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6082568
+project-id = 964408

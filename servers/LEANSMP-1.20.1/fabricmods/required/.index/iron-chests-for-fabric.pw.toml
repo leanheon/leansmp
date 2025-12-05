@@ -1,0 +1,16 @@
+filename = 'IronChests-2.0.2.jar'
+name = 'Iron Chests (Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8fad1ead5112596ebe235e849f81cbf13c1ff77d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5083277
+project-id = 498534

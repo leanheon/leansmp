@@ -1,0 +1,16 @@
+filename = 'moonlight-1.20-2.13.81-fabric.jar'
+name = 'Moonlight Lib'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '75768c020caea93c5ebda8ff49bc3781554742dd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6380633
+project-id = 499980

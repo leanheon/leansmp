@@ -1,0 +1,16 @@
+filename = 'cratedelight-24.11.22-1.20-fabric.jar'
+name = 'Crate Delight (Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7213c941d4fcc6ca842973b7427a24102ed94a4d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5929156
+project-id = 957811

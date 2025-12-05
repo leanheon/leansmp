@@ -1,0 +1,16 @@
+filename = 'iris-flywheel-compat-fabric1.20.1+1.1.4.jar'
+name = 'Iris & Oculus Flywheel Compat'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '3a6a2d277ef215bf6f0b1a81eb2ffce7553d96ce'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5787443
+project-id = 659897

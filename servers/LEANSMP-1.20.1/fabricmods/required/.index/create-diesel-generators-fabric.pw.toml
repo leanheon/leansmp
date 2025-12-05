@@ -1,0 +1,16 @@
+filename = 'createdieselgenerators-2.1.4.jar'
+name = 'Create: Diesel Generators [Fabric]'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'eee0e19045f391d6d785d4322b112336b69eb106'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5335378
+project-id = 906568

@@ -1,0 +1,16 @@
+filename = 'ChatImage-1.4.7+1.20+fabric.jar'
+name = 'ChatImage'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '8b5beb71a512a5db7987c00fc74a67413253c631'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6397880
+project-id = 818089

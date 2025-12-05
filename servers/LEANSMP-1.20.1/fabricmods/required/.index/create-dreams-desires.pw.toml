@@ -1,0 +1,16 @@
+filename = 'create_dd-0.1d.jar'
+name = "Create: Dreams n' Desires"
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '09de8b59aaeca8d3fe5c0b684c667c77b9818ae2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5303207
+project-id = 864781

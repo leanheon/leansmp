@@ -1,0 +1,16 @@
+filename = 'sdm_ui_lib-fabric-1.20.1-1.8.3.jar'
+name = 'SDM UI Lib [Forge/Fabric]'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e55db9ba3d46add30d07559ea5b719215e64a5ca'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6086203
+project-id = 1095061

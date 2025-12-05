@@ -1,0 +1,16 @@
+filename = 'smoothswapping-0.9.3.1-1.20.2-fabric.jar'
+name = 'Smooth Swapping'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '0deaefc844f35113ed5db90d76b5bd0bd5a279df'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4838934
+project-id = 513689

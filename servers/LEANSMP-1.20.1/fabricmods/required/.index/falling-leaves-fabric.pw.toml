@@ -1,0 +1,16 @@
+filename = 'fallingleaves-1.15.6+1.20.1.jar'
+name = 'Falling Leaves (Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.4', '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9950aaea2a33b1cfc972e881c533384e3bb0a0fb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5240313
+project-id = 417510

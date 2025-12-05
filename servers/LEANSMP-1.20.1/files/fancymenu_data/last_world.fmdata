@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = /home/leanheon/.local/share/PrismLauncher/instances/Better Adventures+/minecraft/saves/새로운 세계
+}
+

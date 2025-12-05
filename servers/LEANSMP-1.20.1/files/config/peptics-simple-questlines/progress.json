@@ -1,0 +1,2003 @@
+{
+  "74a8ea2e-4da8-4286-9cb0-2073014b2831": {
+    "early_miner": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "early_miner",
+      "objective_progress": {
+        "0": 16
+      },
+      "completed": true,
+      "completion_time": 1759945773859
+    },
+    "quartz_run": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "quartz_run",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "blaze_it": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "blaze_it",
+      "objective_progress": {
+        "0": 5
+      },
+      "completed": true,
+      "completion_time": 1759784831705
+    },
+    "archers_trial": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "archers_trial",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "blaze_patrol": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "blaze_patrol",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "fishy_business": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "fishy_business",
+      "objective_progress": {
+        "0": 7
+      },
+      "completed": true,
+      "completion_time": 1759946920717
+    },
+    "gravel_pit": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "gravel_pit",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "ravagers_bane": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "ravagers_bane",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "silk_gathering": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "silk_gathering",
+      "objective_progress": {
+        "0": 20
+      },
+      "completed": true,
+      "completion_time": 1760112590476
+    },
+    "lumber_lift": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "lumber_lift",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "zombie_duty": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "zombie_duty",
+      "objective_progress": {
+        "0": 10
+      },
+      "completed": true,
+      "completion_time": 1759772401983
+    },
+    "pelt_trader": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "pelt_trader",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "dragon_remnant": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "dragon_remnant",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "bone_collector": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "bone_collector",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "rotten_harvest": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "rotten_harvest",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "iron_grip": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "iron_grip",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "obsidian_harvest": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "obsidian_harvest",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "pond_plucker": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "pond_plucker",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "rotten_swarm": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "rotten_swarm",
+      "objective_progress": {
+        "0": 20
+      },
+      "completed": true,
+      "completion_time": 1759781570590
+    },
+    "iron_search": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "iron_search",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "desert_watch": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "desert_watch",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "crying_depths": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "crying_depths",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "crimson_clearing": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "crimson_clearing",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "bastion_breaker": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "bastion_breaker",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "stone_splitter": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "stone_splitter",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "stone_mason": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "stone_mason",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "mossy_mission": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "mossy_mission",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "banner_setup": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "banner_setup",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "shroom_search": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "shroom_search",
+      "objective_progress": {
+        "0": 10
+      },
+      "completed": true,
+      "completion_time": 1759840159299
+    },
+    "vault_architect": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "vault_architect",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "slime_kingslayer": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "slime_kingslayer",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "mushroom_picker": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "mushroom_picker",
+      "objective_progress": {
+        "0": 8
+      },
+      "completed": true,
+      "completion_time": 1759707055175
+    },
+    "sand_supplier": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "sand_supplier",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "dust_to_dust": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "dust_to_dust",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "cow_tipper": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "cow_tipper",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "bandit_trouble": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "bandit_trouble",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "zombie_hunter": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "zombie_hunter",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "rooftop_fixer": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "rooftop_fixer",
+      "objective_progress": {
+        "0": 40
+      },
+      "completed": true,
+      "completion_time": 1759846576386
+    },
+    "fungus_forager": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "fungus_forager",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "soul_soil_seeker": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "soul_soil_seeker",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "creeper_cleanup": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "creeper_cleanup",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "crop_reaper": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "crop_reaper",
+      "objective_progress": {
+        "0": 16
+      },
+      "completed": true,
+      "completion_time": 1759489188090
+    },
+    "hellstone_digger": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "hellstone_digger",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "blaze_breaker": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "blaze_breaker",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "fungal_feast": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "fungal_feast",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "redstone_vein": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "redstone_vein",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "skeleton_sniper": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "skeleton_sniper",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "ghastly_encounter": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "ghastly_encounter",
+      "objective_progress": {
+        "0": 1
+      },
+      "completed": true,
+      "completion_time": 1760112641599
+    },
+    "bug_hunt": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "bug_hunt",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "obsidian_labor": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "obsidian_labor",
+      "objective_progress": {
+        "0": 4
+      },
+      "completed": false,
+      "completion_time": 0
+    },
+    "bone_miner": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "bone_miner",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "web_sweeper": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "web_sweeper",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "feather_fetcher": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "feather_fetcher",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "pork_patrol": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "pork_patrol",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "gold_digger": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "gold_digger",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "clay_crafter": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "clay_crafter",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "log_hauler": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "log_hauler",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "andesite_collector": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "andesite_collector",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "skeleton_cleanse": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "skeleton_cleanse",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "floor_plan": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "floor_plan",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "slime_season": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "slime_season",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "hog_hunter": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "hog_hunter",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "gravel_grab": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "gravel_grab",
+      "objective_progress": {
+        "0": 40
+      },
+      "completed": true,
+      "completion_time": 1759948657367
+    },
+    "spider_slayer": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "spider_slayer",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "mob_cleaner": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "mob_cleaner",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "coal_fetch": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "coal_fetch",
+      "objective_progress": {
+        "0": 16
+      },
+      "completed": true,
+      "completion_time": 1759848235551
+    },
+    "build_town_square": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "build_town_square",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "simple_lighthouse": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "simple_lighthouse",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "build_scarecrow": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "build_scarecrow",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "construct_fishing_hut": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "construct_fishing_hut",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "add_foliage_rocks": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "add_foliage_rocks",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "natural_hot_spring": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "natural_hot_spring",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "chimney_smoke_effects": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "chimney_smoke_effects",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "terraform_10x10": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "terraform_10x10",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "terraced_windmill": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "terraced_windmill",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "add_wall_features": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "add_wall_features",
+      "objective_progress": {
+        "0": 1
+      },
+      "completed": true,
+      "completion_time": 1759771436118
+    },
+    "walled_town_district": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "walled_town_district",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "build_grand_tavern_lodge": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "build_grand_tavern_lodge",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "desert_canyon_town": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "desert_canyon_town",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "create_biome_spanning_build": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "create_biome_spanning_build",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "bonemeal_backup": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "bonemeal_backup",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "nether_hunter": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "nether_hunter",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "swine_slayer": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "swine_slayer",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "redstone_rusher": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "redstone_rusher",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "quartz_crafter": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "quartz_crafter",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "wheat_wielder": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "wheat_wielder",
+      "objective_progress": {
+        "0": 64
+      },
+      "completed": true,
+      "completion_time": 1759785827097
+    },
+    "clay_crafter_new": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "clay_crafter_new",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "coal_grubber": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "coal_grubber",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "iron_taster": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "iron_taster",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "glow_up": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "glow_up",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "sandstormer": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "sandstormer",
+      "objective_progress": {
+        "0": 62
+      },
+      "completed": true,
+      "completion_time": 1759769451484
+    },
+    "undead_eliminator": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "undead_eliminator",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "hay_hauler": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "hay_hauler",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "rotten_reaper": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "rotten_reaper",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "gravel_grunt": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "gravel_grunt",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "diorite_demolisher": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "diorite_demolisher",
+      "objective_progress": {
+        "0": 64
+      },
+      "completed": true,
+      "completion_time": 1759849423925
+    },
+    "root_digger": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "root_digger",
+      "objective_progress": {
+        "0": 20
+      },
+      "completed": true,
+      "completion_time": 1759945341635
+    },
+    "carrot_collector": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "carrot_collector",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "lapis_fetcher": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "lapis_fetcher",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "pork_pursuit": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "pork_pursuit",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "emerald_extractor": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "emerald_extractor",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "stonemasons_start": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "stonemasons_start",
+      "objective_progress": {
+        "0": 40
+      },
+      "completed": true,
+      "completion_time": 1759945695730
+    },
+    "chicken_chopper": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "chicken_chopper",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "creeper_control": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "creeper_control",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "carvers_duty": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "carvers_duty",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "moss_mound": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "moss_mound",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "golem_defender": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "golem_defender",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "zapper": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "zapper",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "add_street_details": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "add_street_details",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "build_tavern_guild_hall": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "build_tavern_guild_hall",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "covered_market_alley": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "covered_market_alley",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "woodland_chapel": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "woodland_chapel",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "belt_system_buildings": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "belt_system_buildings",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "build_ruined_temple": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "build_ruined_temple",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "add_market_clutter": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "add_market_clutter",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "convert_forest_grove": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "convert_forest_grove",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "terraform_cliff_ruins": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "terraform_cliff_ruins",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "terraform_hillside_farm": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "terraform_hillside_farm",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "detail_unfinished_wall": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "detail_unfinished_wall",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "skyport_air_vehicles": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "skyport_air_vehicles",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "sky_anchored_library": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "sky_anchored_library",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "industrial_district": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "industrial_district",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "build_campfire_rest": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "build_campfire_rest",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "smoke_vent_chimney": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "smoke_vent_chimney",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "rebuild_house_new_style": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "rebuild_house_new_style",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "deployer_tree_farm": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "deployer_tree_farm",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "build_ruined_structure": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "build_ruined_structure",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "maintenance_tunnel": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "maintenance_tunnel",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "stone_fountain_plaza": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "stone_fountain_plaza",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "build_multi_room_house": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "build_multi_room_house",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "build_signpost": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "build_signpost",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "curved_wooden_bridge": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "curved_wooden_bridge",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "finish_building_shell": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "finish_building_shell",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "ore_washing_automation": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "ore_washing_automation",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "expand_with_shed": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "expand_with_shed",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "place_path_variants": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "place_path_variants",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "canyon_trail": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "canyon_trail",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "connect_towns_styled_road": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "connect_towns_styled_road",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "blaze_burner_foundry": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "blaze_burner_foundry",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "ruined_battlefield": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "ruined_battlefield",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "mage_tower": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "mage_tower",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "moving_elevator_platform": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "moving_elevator_platform",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "rocky_outcrop": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "rocky_outcrop",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "decorative_fencing": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "decorative_fencing",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "fire_lookout_tower": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "fire_lookout_tower",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "build_signal_tower": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "build_signal_tower",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "elven_outpost": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "elven_outpost",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "swamp_hut_stilts": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "swamp_hut_stilts",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "cliffside_monastery": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "cliffside_monastery",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "build_trailhead_entrance": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "build_trailhead_entrance",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "walking_mechanical_golem": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "walking_mechanical_golem",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "construct_floating_ruin": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "construct_floating_ruin",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "sandy_cove": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "sandy_cove",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "powered_encased_fan": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "powered_encased_fan",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "blaze_battle": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "blaze_battle",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "pit_layer": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "pit_layer",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "lava_dancer": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "lava_dancer",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "highway_layer": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "highway_layer",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "simple_shelter": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "simple_shelter",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "ocean_drifter": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "ocean_drifter",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "horsemans_journey_rare": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "horsemans_journey_rare",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "warzone": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "warzone",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "soft_harvest": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "soft_harvest",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "ocean_traveler": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "ocean_traveler",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "rotten_rise": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "rotten_rise",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "wall_layer": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "wall_layer",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "brick_by_brick": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "brick_by_brick",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "bone_clash": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "bone_clash",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "fledgling_looter": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "fledgling_looter",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "powder_patrol": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "powder_patrol",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "experienced_looter": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "experienced_looter",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "farmhand_force": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "farmhand_force",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "stone_smasher": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "stone_smasher",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "fortress_work": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "fortress_work",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "ride_along": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "ride_along",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "trailblazer": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "trailblazer",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "guard_duty": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "guard_duty",
+      "objective_progress": {
+        "0": 10
+      },
+      "completed": true,
+      "completion_time": 1760112573608
+    },
+    "rail_day": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "rail_day",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "stalker_sweep": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "stalker_sweep",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "boat_day": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "boat_day",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "the_big_trek": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "the_big_trek",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "builders_stretch": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "builders_stretch",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "miners_haul": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "miners_haul",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "iron_strike": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "iron_strike",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "groundwork": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "groundwork",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "rail_day_rare": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "rail_day_rare",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "netherbound": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "netherbound",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "smelters_trial": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "smelters_trial",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "tunnel_time": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "tunnel_time",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "sharp_shot": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "sharp_shot",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "ore_beginnings": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "ore_beginnings",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "lava_miner": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "lava_miner",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "long_haul": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "long_haul",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "horsemans_journey": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "horsemans_journey",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "creeper_hunt": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "creeper_hunt",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "overland_walker": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "overland_walker",
+      "objective_progress": {
+        "0": 12
+      },
+      "completed": false,
+      "completion_time": 0
+    },
+    "plunderer": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "plunderer",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "haunt_breaker": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "haunt_breaker",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "deep_dig": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "deep_dig",
+      "objective_progress": {
+        "0": 20
+      },
+      "completed": true,
+      "completion_time": 1760112518367
+    },
+    "creeper_cleave": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "creeper_cleave",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "tucked_away": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "tucked_away",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "forge_district": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "forge_district",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "large_harbor": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "large_harbor",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "mages_keep": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "mages_keep",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "hanging_gardens": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "hanging_gardens",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "treehouse_starter": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "treehouse_starter",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "grand_library_5": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "grand_library_5",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "millstone_wheat_setup": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "millstone_wheat_setup",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "stone_citadel": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "stone_citadel",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "style_swap": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "style_swap",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "convert_clearing_settlement": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "convert_clearing_settlement",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "grand_lodge": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "grand_lodge",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "grain_storage": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "grain_storage",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "roofed_and_ready": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "roofed_and_ready",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "field_fence": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "field_fence",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "complete_entire_village": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "complete_entire_village",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "the_gardener": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "the_gardener",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "lush_landing": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "lush_landing",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "trail_touchup": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "trail_touchup",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "assembly_line_arms": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "assembly_line_arms",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "village_hub": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "village_hub",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "flower_bed": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "flower_bed",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "campground_ring": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "campground_ring",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "floating_island_garden": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "floating_island_garden",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "log_pile": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "log_pile",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "stone_forge": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "stone_forge",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "flour_bread_production": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "flour_bread_production",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "golem_forge": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "golem_forge",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "tunnel_bore_drill": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "tunnel_bore_drill",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "baseboard_boost": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "baseboard_boost",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "path_of_detail": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "path_of_detail",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "create_quarry_site": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "create_quarry_site",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "sanctuary_of_light": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "sanctuary_of_light",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "roof_raiser": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "roof_raiser",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "add_natural_overgrowth": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "add_natural_overgrowth",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "grave_builder": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "grave_builder",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "tower_time": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "tower_time",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "build_solarpunk_research": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "build_solarpunk_research",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "construct_marketplace": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "construct_marketplace",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "lantern_alley": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "lantern_alley",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "elevated_living": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "elevated_living",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "open_courtyard": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "open_courtyard",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "industrial_crane": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "industrial_crane",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "industrial_yard": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "industrial_yard",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "treetop_platform_network": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "treetop_platform_network",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "suspended_garden": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "suspended_garden",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "cliff_nooks": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "cliff_nooks",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "chimney_charm": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "chimney_charm",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "harbor_town": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "harbor_town",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "natures_touch": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "natures_touch",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "hunter_cabin": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "hunter_cabin",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "tool_shed": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "tool_shed",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "bathhouse_build": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "bathhouse_build",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "wooden_beginnings": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "wooden_beginnings",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "grand_library": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "grand_library",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "brass_production_automation": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "brass_production_automation",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "split_level_lodge": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "split_level_lodge",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "market_row_5": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "market_row_5",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "water_wheel_setup": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "water_wheel_setup",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "path_to_somewhere": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "path_to_somewhere",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "kinetic_sculpture_garden": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "kinetic_sculpture_garden",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "biome_divide": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "biome_divide",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "forge_zone": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "forge_zone",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "bridge_builder": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "bridge_builder",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "city_start": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "city_start",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "interior_decorator": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "interior_decorator",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "blighted_tower": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "blighted_tower",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "snowy_summit_shrine": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "snowy_summit_shrine",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "hillside_graveyard": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "hillside_graveyard",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "riverwalk": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "riverwalk",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "fortress_shell": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "fortress_shell",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "texture_gradient_buildings": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "texture_gradient_buildings",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "tree_village": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "tree_village",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "mountain_fort": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "mountain_fort",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "outpost_cabin": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "outpost_cabin",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "hillside_path": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "hillside_path",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "courtyard_creation": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "courtyard_creation",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "library_of_lore": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "library_of_lore",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    },
+    "watchtower_build": {
+      "player_id": "74a8ea2e-4da8-4286-9cb0-2073014b2831",
+      "quest_id": "watchtower_build",
+      "objective_progress": {},
+      "completed": false,
+      "completion_time": 0
+    }
+  }
+}

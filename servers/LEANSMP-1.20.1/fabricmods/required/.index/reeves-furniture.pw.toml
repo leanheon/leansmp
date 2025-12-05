@@ -1,0 +1,16 @@
+filename = 'reeves-furniture-1.20.1-1.1304-fabric.jar'
+name = 'Furnitury - Vanilla Styled Furniture'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7a23ae7a0d440e5f0e8a0bada87d1ff53f1723a8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5255724
+project-id = 399025

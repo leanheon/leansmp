@@ -1,0 +1,16 @@
+filename = 'bettercombat-fabric-1.8.6+1.20.1.jar'
+name = 'Better Combat [Fabric & Forge]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '92355cccfe5f1ddff1f03e6079bc7a764e63a6f7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5625715
+project-id = 639842

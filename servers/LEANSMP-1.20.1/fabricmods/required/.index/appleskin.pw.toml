@@ -1,0 +1,16 @@
+filename = 'appleskin-fabric-mc1.20.1-2.5.1.jar'
+name = 'AppleSkin'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'd0f11243f79c071416bbcee781ae93eb57a0283c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4770825
+project-id = 248787

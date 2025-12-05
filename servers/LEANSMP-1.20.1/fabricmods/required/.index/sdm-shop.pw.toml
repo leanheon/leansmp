@@ -1,0 +1,16 @@
+filename = 'SDMShop-fabric-1.20.1-7.1.2.jar'
+name = 'SDM Shop [Forge/Fabric]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '0afa7be4c8b6234d3f2d2a9ecfc95cbd7ced5b3c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6964326
+project-id = 948942

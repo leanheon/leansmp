@@ -1,0 +1,16 @@
+filename = 'emi_loot-0.7.8+1.20.1+fabric.jar'
+name = 'EMI Loot'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2019a0bbe626c0d42ebde48d9b9e803ae9505a13'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7265521
+project-id = 681783

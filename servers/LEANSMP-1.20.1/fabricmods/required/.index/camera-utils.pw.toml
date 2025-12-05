@@ -1,0 +1,16 @@
+filename = 'camerautils-fabric-1.20.1-1.0.14.jar'
+name = 'Camera Utils'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '4fd8e01e0c48f0015a07d6825eb5049e28eeec7f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5583473
+project-id = 510234

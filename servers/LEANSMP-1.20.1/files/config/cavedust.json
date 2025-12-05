@@ -1,0 +1,999 @@
+{
+  "width": 10,
+  "height": 10,
+  "velocityRandomness": 1,
+  "caveDustEnabled": true,
+  "seaLevelCheck": true,
+  "superFlatStatus": false,
+  "upperLimit": 64.0,
+  "lowerLimit": -64.0,
+  "particleMultiplier": 1,
+  "listNumber": 0,
+  "particleMultiplierMultiplier": 10,
+  "list": [
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dolphin"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "holy_spark"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "heart"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "bubble_pop"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "fire_explosion"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "debris_smoke"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sculk_charge_pop"
+    },
+    {
+      "field_13353": "natures_spirit",
+      "field_13355": "milk"
+    },
+    {
+      "field_13353": "natures_spirit",
+      "field_13355": "calcite_bubble"
+    },
+    {
+      "field_13353": "majruszsenchantments",
+      "field_13355": "telekinesis"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_obsidian_tear"
+    },
+    {
+      "field_13353": "death_knights",
+      "field_13355": "unholy_hit"
+    },
+    {
+      "field_13353": "lodestone",
+      "field_13355": "twinkle"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "splash"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dust"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "flame_medium_a"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "shell_explosion_cloud"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "flame_medium_b"
+    },
+    {
+      "field_13353": "ad_astra",
+      "field_13355": "large_flame"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "enchant"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "wax_on"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "campfire_signal_smoke"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sculk_soul"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_spore_blossom"
+    },
+    {
+      "field_13353": "natures_spirit",
+      "field_13355": "orange_maple_leaves"
+    },
+    {
+      "field_13353": "natures_spirit",
+      "field_13355": "red_maple_leaves"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "ash"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "fluid_particle"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "water_circle"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "nature_spark_mini"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "wind_vacuum"
+    },
+    {
+      "field_13353": "lodestone",
+      "field_13355": "thin_extruding_spark"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "gas_cloud"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_dust"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "current_down"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "cannon_blast_wave"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "lava"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "water_mist"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "gust"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "sign_charge"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "bubble"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "landing_lava"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sneeze"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_water"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "spark_burst"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "holy_ascend"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "mycelium"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "underwater"
+    },
+    {
+      "field_13353": "lodestone",
+      "field_13355": "extruding_spark"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "flame"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "cannon_smoke"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "totem_of_undying"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "nature_spark_mini_slowing"
+    },
+    {
+      "field_13353": "aquamirae",
+      "field_13355": "ghost_shine"
+    },
+    {
+      "field_13353": "milk",
+      "field_13355": "flowing_milk_dripstone_lib_particle_type_fall"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "bubble_pop"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "flak_cloud"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "instant_effect"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "holy_spell"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "holy_spark_mini"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "quick_firing_breech_smoke"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_nectar"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "air"
+    },
+    {
+      "field_13353": "railways",
+      "field_13355": "smoke_puff_medium"
+    },
+    {
+      "field_13353": "majruszsenchantments",
+      "field_13355": "smelter"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "cherry_leaves"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "autocannon_plume"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "drop_mortar_plume"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "elder_guardian"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "soul_expanding_perimeter"
+    },
+    {
+      "field_13353": "ad_astra",
+      "field_13355": "acid_rain"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "shell_explosion_smoke"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "poof"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "ambient_entity_effect"
+    },
+    {
+      "field_13353": "illagerinvasion",
+      "field_13355": "magic_flame"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "scrape"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "rotation_indicator"
+    },
+    {
+      "field_13353": "create_dd",
+      "field_13355": "air_flow"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "splinter_burst"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "shriek"
+    },
+    {
+      "field_13353": "farmersdelight",
+      "field_13355": "steam"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "white_spark_mini"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_lava"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "glass_burst"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "blood_drop"
+    },
+    {
+      "field_13353": "create_dd",
+      "field_13355": "air"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "flame_ground"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "dragon_claw"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "freezing_snowflake"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "molten_armor"
+    },
+    {
+      "field_13353": "lodestone",
+      "field_13355": "star"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "arcane_hit"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "angry_villager"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "splash"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "shrapnel_smoke"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "frost_shard"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "soul_fire_flame"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "witch"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "frost_hit"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "spit"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "flame_spark"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_honey"
+    },
+    {
+      "field_13353": "death_knights",
+      "field_13355": "blood_hit"
+    },
+    {
+      "field_13353": "majruszsdifficulty",
+      "field_13355": "blood"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "dripping_water"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "squid_ink"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_honey"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "wave"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "enchanted_hit"
+    },
+    {
+      "field_13353": "lodestone",
+      "field_13355": "terrain"
+    },
+    {
+      "field_13353": "aquamirae",
+      "field_13355": "shine"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "glass_shard"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "leaf_burst"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "end_rod"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "composter"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "white_ash"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "snowflake"
+    },
+    {
+      "field_13353": "milk",
+      "field_13355": "still_milk_dripstone_lib_particle_type_hang"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_dripstone_water"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "poison_smoke"
+    },
+    {
+      "field_13353": "majruszsenchantments",
+      "field_13355": "dodge"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "weakness_smoke"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "water_splash"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "small_gust"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_dripstone_lava"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "firework"
+    },
+    {
+      "field_13353": "railways",
+      "field_13355": "smoke"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "projectile_splash"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "rain"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "glow"
+    },
+    {
+      "field_13353": "shield_overhaul",
+      "field_13355": "stun_star"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "soul_perimeter"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_dripstone_water"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "flame"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "water_whip"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "item_snowball"
+    },
+    {
+      "field_13353": "majruszsaccessories",
+      "field_13355": "bonus_normal"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "fluid_cloud"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "nautilus"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "spore_blossom_air"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "dripping_blood"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "shrapnel_cloud"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_lava"
+    },
+    {
+      "field_13353": "lodestone",
+      "field_13355": "smoke"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "bubble_column_up"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "block_marker"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "happy_villager"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "hot_splash"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "steam_jet"
+    },
+    {
+      "field_13353": "railways",
+      "field_13355": "chimneypush_small"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "wax_off"
+    },
+    {
+      "field_13353": "aquamirae",
+      "field_13355": "electric"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "damage_indicator"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "explosion"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "stun_particle"
+    },
+    {
+      "field_13353": "death_knights",
+      "field_13355": "unholy_smoke"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "electric_spark"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "electric_arc_a"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "water_heal"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "healing_ascend"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "electric_arc_b"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "splash_spray"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dust_color_transition"
+    },
+    {
+      "field_13353": "railways",
+      "field_13355": "chimneypush_medium"
+    },
+    {
+      "field_13353": "farmersdelight",
+      "field_13355": "star"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "reverse_portal"
+    },
+    {
+      "field_13353": "lodestone",
+      "field_13355": "wisp"
+    },
+    {
+      "field_13353": "milk",
+      "field_13355": "still_milk_dripstone_lib_particle_type_splash"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "buff_rage"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "landing_honey"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "soul"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "note"
+    },
+    {
+      "field_13353": "mythicupgrades",
+      "field_13355": "percent_particle"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "explosion_emitter"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "block"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "smoke_medium"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "basin_fluid"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "debris_smoke_burst"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "large_smoke"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "block"
+    },
+    {
+      "field_13353": "milk",
+      "field_13355": "flowing_milk_dripstone_lib_particle_type_hang"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "cannon_smoke_fallback"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "item_slime"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "entity_effect"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "holy_hit"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "item"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sculk_charge"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "air_flow"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "flak_smoke"
+    },
+    {
+      "field_13353": "natures_spirit",
+      "field_13355": "yellow_maple_leaves"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "arcane_spell"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sonic_boom"
+    },
+    {
+      "field_13353": "milk",
+      "field_13355": "still_milk_dripstone_lib_particle_type_fall"
+    },
+    {
+      "field_13353": "lodestone",
+      "field_13355": "spark"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sweep_attack"
+    },
+    {
+      "field_13353": "botarium",
+      "field_13355": "fluid"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "fluid_blob"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "smoke_shell_smoke"
+    },
+    {
+      "field_13353": "aquamirae",
+      "field_13355": "ghost"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "portal"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "big_cannon_plume"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dragon_breath"
+    },
+    {
+      "field_13353": "spell_engine",
+      "field_13355": "roots"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "small_flame"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "egg_crack"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "stone_particle"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "spark"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "trail_smoke"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "crit"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "smoke"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "glow_squid_ink"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "soul_base"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "campfire_cosy_smoke"
+    },
+    {
+      "field_13353": "ad_astra",
+      "field_13355": "oxygen_bubble"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "snowflake"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "fishing"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "flash"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "cube"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "bubble"
+    },
+    {
+      "field_13353": "ad_astra",
+      "field_13355": "large_smoke"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_water"
+    },
+    {
+      "field_13353": "lodestone",
+      "field_13355": "sparkle"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "stone_explosion"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "fluid_drip"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "warped_spore"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_obsidian_tear"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "debris_matter"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "cloud"
+    },
+    {
+      "field_13353": "cavedust",
+      "field_13355": "cave_dust"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "splinter"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "landing_obsidian_tear"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "crimson_spore"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "leaf"
+    },
+    {
+      "field_13353": "illagerinvasion",
+      "field_13355": "necromancer_buff"
+    },
+    {
+      "field_13353": "lodestone",
+      "field_13355": "item"
+    },
+    {
+      "field_13353": "death_knights",
+      "field_13355": "blood_boil"
+    },
+    {
+      "field_13353": "createbigcannons",
+      "field_13355": "shell_blast_wave"
+    },
+    {
+      "field_13353": "railways",
+      "field_13355": "smoke_puff_small"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "effect"
+    },
+    {
+      "field_13353": "create",
+      "field_13355": "soul"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "vibration"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_dripstone_lava"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "big_splash"
+    },
+    {
+      "field_13353": "more_rpg_classes",
+      "field_13355": "gas_cloud"
+    },
+    {
+      "field_13353": "milk",
+      "field_13355": "flowing_milk_dripstone_lib_particle_type_splash"
+    }
+  ],
+  "newId": {
+    "field_13353": "cavedust",
+    "field_13355": "cave_dust"
+  }
+}

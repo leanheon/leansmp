@@ -1,0 +1,16 @@
+filename = 'MetalBarrels-fabric-1.20.1-4.jar'
+name = 'Metal Barrels'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6e7f349e906883408b45e3efa55939ae1fd0660f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5443153
+project-id = 324985

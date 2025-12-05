@@ -1,0 +1,10 @@
+[general]
+
+# Group: Server side
+"Disable ability to ride" = false
+"Dismount on falling" = false
+
+# Group: Client side
+"Hide rider in 1st person" = false
+"Weighted Carrying" = false
+

@@ -1,0 +1,16 @@
+filename = 'LuckPerms-Fabric-5.4.102.jar'
+name = 'LuckPerms'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '891e2404c0f9790e704e29faa98241178e29fc20'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4738951
+project-id = 431733

@@ -1,0 +1,16 @@
+filename = 'mcw-stairs-1.0.1-1.20.1fabric.jar'
+name = "Macaw's Stairs"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1363e19bdcffd36416057c21a6195db41b4e8df7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6155218
+project-id = 1119394

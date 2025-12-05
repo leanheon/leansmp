@@ -1,0 +1,16 @@
+filename = 'countereds_terrain_slabs-1.4.0.jar'
+name = "Countered's Terrain Slabs"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '58744e62620f10f49afe7d9b45f798e10818946f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6054517
+project-id = 1125437

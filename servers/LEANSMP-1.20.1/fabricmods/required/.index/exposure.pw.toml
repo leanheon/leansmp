@@ -1,0 +1,16 @@
+filename = 'exposure-1.20.1-1.7.10-fabric.jar'
+name = 'Exposure'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a09113a23abee419a02f3dbba931f1c42ff929cf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6304405
+project-id = 871755

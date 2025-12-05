@@ -1,0 +1,16 @@
+filename = 'letsdo-vinery-fabric-1.4.39.jar'
+name = "[Let's Do] Vinery"
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3e05d660f893750972661176d90e981f87bf0812'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6264248
+project-id = 704465

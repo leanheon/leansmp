@@ -1,0 +1,16 @@
+filename = 'multiworldborders-1.6.2-fabric-1.20.jar'
+name = 'Multi World Borders'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dc3261ad10b14badb5f9c5d750b74b1c6f144508'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4723209
+project-id = 443120

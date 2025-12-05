@@ -1,0 +1,16 @@
+filename = 'DiagonalWalls-v8.0.4-1.20.1-Fabric.jar'
+name = 'Diagonal Walls'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0a11cf205f81c5b0b56bd99f32187549ecf0711b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5918172
+project-id = 969422

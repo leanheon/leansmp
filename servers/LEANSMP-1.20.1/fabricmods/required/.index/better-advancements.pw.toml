@@ -1,0 +1,16 @@
+filename = 'BetterAdvancements-Fabric-1.20.1-0.4.2.25.jar'
+name = 'Better Advancements'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '22964ac6041bd356e40658eb50425ae730f1b071'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6010301
+project-id = 272515

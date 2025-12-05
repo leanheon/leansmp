@@ -1,0 +1,16 @@
+filename = 'createoreexcavation-fabric-1.20-1.5.4.jar'
+name = 'Create Ore Excavation'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '846e0b60ff6c864d2cde8957e164eb413eebdb83'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5848321
+project-id = 649832

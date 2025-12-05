@@ -1,0 +1,68 @@
+{
+  "cache": {
+    "rpg_series:tier_4_weapons": [],
+    "rpg_series:tier_1_armors": [
+      "rogues:rogue_armor_chest",
+      "rogues:rogue_armor_feet",
+      "rogues:rogue_armor_head",
+      "rogues:rogue_armor_legs",
+      "rogues:warrior_armor_chest",
+      "rogues:warrior_armor_feet",
+      "rogues:warrior_armor_head",
+      "rogues:warrior_armor_legs"
+    ],
+    "rpg_series:tier_2_armors": [
+      "rogues:assassin_armor_chest",
+      "rogues:assassin_armor_head",
+      "rogues:assassin_armor_feet",
+      "rogues:assassin_armor_legs",
+      "rogues:berserker_armor_chest",
+      "rogues:berserker_armor_head",
+      "rogues:berserker_armor_feet",
+      "rogues:berserker_armor_legs"
+    ],
+    "rpg_series:tier_3_armors": [
+      "rogues:netherite_assassin_armor_head",
+      "rogues:netherite_assassin_armor_chest",
+      "rogues:netherite_assassin_armor_legs",
+      "rogues:netherite_assassin_armor_feet",
+      "rogues:netherite_berserker_armor_head",
+      "rogues:netherite_berserker_armor_chest",
+      "rogues:netherite_berserker_armor_legs",
+      "rogues:netherite_berserker_armor_feet"
+    ],
+    "rpg_series:tier_0_accessories": [],
+    "rpg_series:tier_1_accessories": [],
+    "rpg_series:tier_3_weapons": [
+      "rogues:netherite_dagger",
+      "rogues:netherite_sickle",
+      "rogues:netherite_double_axe",
+      "rogues:netherite_glaive"
+    ],
+    "rpg_series:tier_2_accessories": [],
+    "rpg_series:tier_3_accessories": [],
+    "rpg_series:tier_1_weapons": [
+      "rogues:iron_dagger",
+      "rogues:iron_sickle",
+      "rogues:iron_double_axe",
+      "rogues:iron_glaive"
+    ],
+    "rpg_series:golden_weapons": [
+      "rogues:golden_dagger",
+      "rogues:golden_sickle",
+      "rogues:golden_double_axe",
+      "rogues:golden_glaive"
+    ],
+    "rpg_series:tier_2_weapons": [
+      "rogues:diamond_dagger",
+      "rogues:diamond_sickle",
+      "rogues:diamond_double_axe",
+      "rogues:diamond_glaive"
+    ],
+    "rpg_series:tier_4_accessories": [],
+    "rpg_series:tier_0_weapons": [
+      "rogues:flint_dagger",
+      "rogues:stone_double_axe"
+    ]
+  }
+}

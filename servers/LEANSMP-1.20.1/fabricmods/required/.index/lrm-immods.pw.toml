@@ -1,0 +1,16 @@
+filename = 'InvMove-0.9.0+1.20.1-Fabric.jar'
+name = 'IMMods'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4a9bbd2e8d3170aed5931d1ec8f485dccb592e64'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6211926
+project-id = 1204243

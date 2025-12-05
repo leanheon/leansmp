@@ -1,0 +1,16 @@
+filename = 'YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar'
+name = "YUNG's Better Nether Fortresses (Fabric)"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '837560db615bad870809e09436e943c4324301d1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5193464
+project-id = 817666

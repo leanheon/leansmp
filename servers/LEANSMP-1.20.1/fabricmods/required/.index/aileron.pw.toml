@@ -1,0 +1,16 @@
+filename = 'aileron-1.20.1-fabric-1.1.1.jar'
+name = 'Aileron'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '98d6fb18d4e8e8cc4cc4cc50b46f2020d1594ded'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6459821
+project-id = 649925

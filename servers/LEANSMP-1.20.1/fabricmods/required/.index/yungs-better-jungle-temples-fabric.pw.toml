@@ -1,0 +1,16 @@
+filename = 'YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar'
+name = "YUNG's Better Jungle Temples (Fabric)"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e0c5366159af63c1a0b110ce1a62750d3d75d978'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5331761
+project-id = 897678

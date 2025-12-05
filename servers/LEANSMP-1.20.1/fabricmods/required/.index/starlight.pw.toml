@@ -1,0 +1,16 @@
+filename = 'starlight-1.1.2+fabric.dbc156f.jar'
+name = 'Starlight (Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a03102cab439cbab5a1d7d72cd7c2b4976ddd421'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4572096
+project-id = 521783

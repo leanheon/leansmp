@@ -1,0 +1,16 @@
+filename = 'mcw-windows-2.3.0-mc1.20.1fabric.jar'
+name = "Macaw's Windows"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '720f2d5569c8fa409de587c1df140d9723356ee1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5589335
+project-id = 363569

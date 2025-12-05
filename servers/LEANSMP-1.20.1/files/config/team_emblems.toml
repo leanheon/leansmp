@@ -1,0 +1,12 @@
+[team_settings]
+# All team settings are based on the behavior of the /team Minecraft command. Documentation for these settings can be
+# found on the Minecraft wiki: https://minecraft.wiki/w/Commands/team#Arguments
+
+# If true, team members can inflict damage upon each other
+friendly_fire = false
+
+# If true, team members can see each other even when invisible
+see_friendly_invisibles = true
+
+# If true, team members can collide with each other (as usual). If false, team members will pass through each other.
+collide_with_teammates = true

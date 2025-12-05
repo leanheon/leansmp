@@ -1,0 +1,16 @@
+filename = 'CreativeCore_FABRIC_v2.12.32_mc1.20.1.jar'
+name = 'CreativeCore'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b966573f2a2cf5bc138cf5711596f18d7922ab32'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6383870
+project-id = 257814

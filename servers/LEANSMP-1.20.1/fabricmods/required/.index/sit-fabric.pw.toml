@@ -1,0 +1,16 @@
+filename = 'sit-1.20.1-27.jar'
+name = 'Sit (Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7a2d4e1fd19b5cb8948579ef72dd1467c6c3515f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5378501
+project-id = 328163

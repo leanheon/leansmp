@@ -1,0 +1,16 @@
+filename = 'Tide-fabric-1.20.1-1.5.0.jar'
+name = 'Tide'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c70279d21b66e0d0b56113541c7719bdc25b06ce'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6106862
+project-id = 884685
