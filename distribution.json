@@ -7128,6 +7128,17 @@
           }
         },
         {
+          "id": "nyfsspiders.json",
+          "name": "nyfsspiders.json",
+          "type": "File",
+          "artifact": {
+            "size": 70,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/files/config/nyfsspiders.json",
+            "MD5": "d5b075e988d71ea633e66897f4dbbfa0",
+            "path": "config/nyfsspiders.json"
+          }
+        },
+        {
           "id": "opacpvp.json5",
           "name": "opacpvp.json5",
           "type": "File",
