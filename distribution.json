@@ -1829,16 +1829,6 @@
           }
         },
         {
-          "id": "com.nyfaria:nyfsspiders:2.1.1@jar",
-          "name": "Nyf's Spiders",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 172356,
-            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/fabricmods/required/nyfsspiders-fabric-1.20.1-2.1.1.jar",
-            "MD5": "17af1481adffaac2e7b7f169c4d9285d"
-          }
-        },
-        {
           "id": "com.obscuria.obscureapi:obscure_api:16@jar",
           "name": "Obscure API",
           "type": "FabricMod",
