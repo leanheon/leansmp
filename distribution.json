@@ -12793,17 +12793,6 @@
           }
         },
         {
-          "id": "fabricDefaultResourcePacks.dat",
-          "name": "fabricDefaultResourcePacks.dat",
-          "type": "File",
-          "artifact": {
-            "size": 91,
-            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/files/data/fabricDefaultResourcePacks.dat",
-            "MD5": "39029a0c585f7902948faac636dc97ec",
-            "path": "data/fabricDefaultResourcePacks.dat"
-          }
-        },
-        {
           "id": "action_favorites.json",
           "name": "action_favorites.json",
           "type": "File",
