@@ -5682,7 +5682,7 @@
           "artifact": {
             "size": 281,
             "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/files/config/fabric/indigo-renderer.properties",
-            "MD5": "f4f2340046d5a38bcbd0b20297d90b73",
+            "MD5": "ad1fb6f1bd64670dea8ed8100fb035bb",
             "path": "config/fabric/indigo-renderer.properties"
           }
         },
@@ -6155,7 +6155,7 @@
           "artifact": {
             "size": 111,
             "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/files/config/indium-renderer.properties",
-            "MD5": "6dbb943ed8da8e6806865ce32df78861",
+            "MD5": "1c8a6ed6d2e3774c189039214cbe9c51",
             "path": "config/indium-renderer.properties"
           }
         },
@@ -6210,7 +6210,7 @@
           "artifact": {
             "size": 259,
             "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/files/config/iris.properties",
-            "MD5": "1e60c90a0e6dc057ce260ea853f39053",
+            "MD5": "bf37f749ff7f22cc5102b4964a23e313",
             "path": "config/iris.properties"
           }
         },
@@ -6738,7 +6738,7 @@
           "artifact": {
             "size": 1546,
             "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/files/config/mcda/mcda_enable_armors.json5",
-            "MD5": "c608f8d5586de81ac259b01552c693ec",
+            "MD5": "cc5898046bdcc69181cc45e07a5cfec9",
             "path": "config/mcda/mcda_enable_armors.json5"
           }
         },
@@ -8459,6 +8459,17 @@
           }
         },
         {
+          "id": "119.69.134.235colon25566.json",
+          "name": "119.69.134.235colon25566.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/files/config/stack-to-nearby-chests/locked-slots/119.69.134.235colon25566.json",
+            "MD5": "d751713988987e9331980363e24189ce",
+            "path": "config/stack-to-nearby-chests/locked-slots/119.69.134.235colon25566.json"
+          }
+        },
+        {
           "id": "76.164.197.111colon25566.json",
           "name": "76.164.197.111colon25566.json",
           "type": "File",
@@ -8632,6 +8643,17 @@
             "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/files/config/stack-to-nearby-chests/locked-slots/beta.flowsmp.com.json",
             "MD5": "d751713988987e9331980363e24189ce",
             "path": "config/stack-to-nearby-chests/locked-slots/beta.flowsmp.com.json"
+          }
+        },
+        {
+          "id": "council-arrested.gl.joinmc.link.json",
+          "name": "council-arrested.gl.joinmc.link.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/files/config/stack-to-nearby-chests/locked-slots/council-arrested.gl.joinmc.link.json",
+            "MD5": "d751713988987e9331980363e24189ce",
+            "path": "config/stack-to-nearby-chests/locked-slots/council-arrested.gl.joinmc.link.json"
           }
         },
         {
@@ -12678,7 +12700,7 @@
           "artifact": {
             "size": 5985,
             "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/files/config/xaerominimap_entities.json",
-            "MD5": "eeb2ce4dd2c025ce9c97fb33953c8a07",
+            "MD5": "d4c352f84216b9aa1f0adee054dc1ae2",
             "path": "config/xaerominimap_entities.json"
           }
         },
@@ -12771,6 +12793,17 @@
           }
         },
         {
+          "id": "fabricDefaultResourcePacks.dat",
+          "name": "fabricDefaultResourcePacks.dat",
+          "type": "File",
+          "artifact": {
+            "size": 91,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/files/data/fabricDefaultResourcePacks.dat",
+            "MD5": "39029a0c585f7902948faac636dc97ec",
+            "path": "data/fabricDefaultResourcePacks.dat"
+          }
+        },
+        {
           "id": "action_favorites.json",
           "name": "action_favorites.json",
           "type": "File",
@@ -12812,6 +12845,17 @@
             "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/files/fancymenu_data/last_world.fmdata",
             "MD5": "82b5c1dd822b483ee01c7eb9fcb8ec91",
             "path": "fancymenu_data/last_world.fmdata"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 11983,
+            "url": "https://leanheon.github.io/leansmp/servers/LEANSMP-1.20.1/files/options.txt",
+            "MD5": "70c103e236bc6052e9f0c40a768ecbe2",
+            "path": "options.txt"
           }
         },
         {
